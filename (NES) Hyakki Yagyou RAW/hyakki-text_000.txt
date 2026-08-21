@@ -3,45 +3,133 @@
 //BLOCK #000 NAME:		Dialogue Block (RAW)
 //Block Range: $890C - $8D87
 
-________�����_�ق��ЂƂȂ�_________(LINE)
-_____����_�܂�Ȃ���_�ł����Ƃ�����____(LINE)
-____���܂ɂ�_���������Ƃ���_�䂤�Ђ̂悤��___(LINE)
-______�����_�������_���߂Ȃ���_______(LINE)
-_____�����܂���_���Ƃ�_�Ƃǂ납��______(LINE)
-__�܂�����_����������_���傾����_�Ђ̂��܂�__(LINE)
-________�ق����_�����_������________(LINE)
-�ق����_����_�����ɂ�_�Ƃ����ނ�������_����������(LINE)
-___�͂��Ă���_�ЂƂ͂��납_���̂��������____(LINE)
-___���ׂĂ�_����ɂイ��_���΂�ł���____(LINE)
-������_�Ȃ�̂��߂�_�����ɂ���������_�͂��Ă���̂�(LINE)
-_���܂ƂȂ��Ă�_���ڂ��Ă���_���̂�_���Ȃ�_����(LINE)
-�������_�킷�ꂩ���Ă���_�ނ����΂Ȃ���_�Ȃ���(LINE)
-__�Ƃ��̂�����_������_���Ԃ��_���̂���___(LINE)
-_�Ђ�������_���Ⴀ���Ȃ���̂�_�ӂ������߂�___(LINE)
-�Ƃ���_�����������邪_������������ł�_�Ȃ�(LINE)
-____���ꂩ��_�͂�Ƃ�������_�ЂƂтƂ�___(LINE)
-____�Ђ̂��܂̂��Ƃ�_��������_�킷��Ă���____(LINE)
-_��������_�����_��䂤��_�Ȃ������̂ł���__(LINE)
-____�����_������_�͂��܂����̂��낤____(LINE)
-______�ЂƂтƂ�_��炢��_�킷��_______(LINE)
-______�܂�����_�ւ��킪_������________(LINE)
-__��Ȃ��_�݂̂����悾��_������_�Ђт�___(LINE)
-�Ȃ�ɂ����_���傤�ɂ�_�ǂ�����_�����Ă�����_(LINE)
-___�������_�Ƃ̂��܂܂ł�_�����Ă��܂���___(LINE)
-___�����_���킳�܂�_�Ȃ��ꂽ�قǂł���__(LINE)
-���傤��_���̂���_�ق���̂��肩��_�قǂƂ����Ȃ�(LINE)
-_______����̂Ȃ���_���΂���_______(LINE)
-_____�݂邩���_����͂Ă�_���Ƃ���_____(LINE)
-_____�ЂƂ��_������_�͂Ȃ������Ă���_____(LINE)
-______������_��������_��������̂�______(LINE)
-______�킽����_�������_�����Ă���_______(LINE)
-____��������_�Ȃɂ�_��������_����̂�____(LINE)
-_____���̂܂���_�ǂ��Ȃ��Ă��܂��̂�_____(LINE)
-_���̂�_���傤�ɂ��_���̂܂���_������_�킽����__(LINE)
-_______�������Ă���_���˂�����_______(LINE)
-______�ЂƂтƂ�_�������݂��Ă���______(LINE)
-____���ڂ���_��낱�т�_���ӂ�Ă���____(LINE)
-_________���̂����_�܂���__________(LINE)
-__�ق�炢_����ׂ��͂���_���̂����_�܂���__(LINE)
-________������_���̂񂾂�_________(END)
+________それは_ほしひとつない_________(LINE)
+It was once a night without a single
+
+_____ある_まよなかの_できごとだった____(LINE)
+star on the sky.
+
+____いまにも_しずもうとする_ゆうひのように___(LINE)
+The sky turned blood red as if it
+
+______そらを_ちいろに_そめながら_______(LINE)
+were dawn, and a great sound echoed
+
+_____すさまじい_おとを_とどろかせ______(LINE)
+throughout.
+
+__まっかに_もえさかる_きょだいな_ひのたまが__(LINE)
+A giant burning red ball of flame
+
+________ほこらの_もりに_おちた________(LINE)
+crashed upon the forest of the shrine.
+
+ほこらの_もり_そこには_とおいむかしから_けっかいが(LINE)
+The forest of the shrine had for long
+
+___はられており_ひとはおろか_いのちあるもの____(LINE)
+been a boundary between worlds.
+
+___すべての_しんにゅうを_こばんできた____(LINE)
+
+しかし_なんのために_そこにけっかいが_はってあるのか(LINE)
+However for what reason the barrier had
+
+_いまとなっては_おぼえている_ものは_いない_ただ(LINE)
+been made, no one remembers to this day.
+
+だれもが_わすれかけている_むかしばなしの_なかに(LINE)
+In a forgotten tale, a respected priest
+
+__とくのたかい_そうが_じぶんの_いのちと___(LINE)
+sacrificed their life to seal the
+
+_ひきかえに_じゃあくなるものを_ふうじこめた___(LINE)
+evil inside, but even that story is
+
+という_いっせつがあるが_それもさだかでは_ない(LINE)
+still uncertain.
+
+
+____それから_はんとしがすぎ_ひとびとは___(LINE)
+Half a year passed, and the event of
+
+____ひのたまのことは_すっかり_わすれていた____(LINE)
+the fireball leaves the people's mind.
+
+
+_じっさい_そんな_よゆうが_なかったのである__(LINE)
+But it was not all over yet.
+
+____それは_いつから_はじまったのだろう____(LINE)
+When exactly it happened is unknown.
+
+______ひとびとは_わらいを_わすれ_______(LINE)
+The people had lost their smile
+
+______まちから_へいわが_きえた________(LINE)
+and their peaceful life crumbled.
+
+__よなよな_みのけもよだつ_こえが_ひびき___(LINE)
+Every night ear piercing screams echoed
+
+
+なんにんもの_ちょうにんが_どこかへ_きえていった_(LINE)
+as countless villagers vanished.
+
+___おしろの_とのさままでが_きえてしまった___(LINE)
+Rumors as far of even the feudal lord
+
+
+___そんな_うわさまで_ながれたほどである__(LINE)
+vanishing spread.
+
+ちょうど_そのころ_ほこらのもりから_ほどとおくない(LINE)
+Around that time, not far from the shrine
+
+_______もりのなかの_あばらやで_______(LINE)
+inside a rest house a very exhausted
+
+
+
+_____みるからに_つかれはてた_おとこが_____(LINE)
+looking man talked to the shadow 
+
+_____ひとりの_かげと_はなしをしていた_____(LINE)
+of a person.
+
+______かげの_せかいに_いきるものよ______(LINE)
+Creatures of the world of shadow
+
+______わたしに_ちからを_かしてくれ_______(LINE)
+Lend me your power.
+
+
+____いったい_なにが_おこって_いるのだ____(LINE)
+What exactly is happening, what is
+
+_____このまちは_どうなってしまうのだ_____(LINE)
+becoming of the town?
+
+_たのむ_ちょうにんを_このまちを_そして_わたしを__(LINE)
+I beg you, for the villagers, the town,
+
+_______すくってくれ_おねがいだ_______(LINE)
+and me, save us please!
+
+______ひとびとの_こえがみちていた______(LINE)
+The people's voices could be heard.
+
+____きぼうと_よろこびが_あふれていた____(LINE)
+Hope and joy spread.
+
+_________あのころの_まちに__________(LINE)
+He had entrusted for the town
+
+__ほんらい_あるべきはずの_あのころの_まちに__(LINE)
+to be restored to its' rightful
+
+
+________しかと_たのんだぞ_________(END)
+state.
 
