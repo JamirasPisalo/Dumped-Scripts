@@ -203,52 +203,145 @@ Wood mallet
 Hex wrench
 
 きり[ED]
+Drill
+
 やすり[ED]
+File
+
 はりがね[ED]
+Wire
+
 やっとこ[ED]
+Pliers
+
 くぎぬき[ED]
+Nail puller
+
 なた[ED]
+Nata
+
 のろし[ED]
+Smoke signal
+
 ねむり ぐすり[ED]
+Sleep medicine
+
 かやく[ED]
+Gunpowder
+
 まきびし[ED]
+Caltrop
+
 しゅりけん[ED]
+Shuriken
+
 しのび くまで[ED]
+Shinobi Rake
+
 しのび がたな[ED]
+Shinobi Katana
+
 えんまく[ED]
+Smokescreen
+
 みずぐも[ED]
+Water shoes
+
 しのび ぶね[ED]
+Shinobi boat
+
 おふだ[ED]
+Ofuda
+
 かみなりだいこ[ED]
+Thunder drum
+
 ほうこうじしゃく[ED]
+Compass
+
 ちず[ED]
+Map
+
 ろうそく[ED]
+Candle
+
 てんぐのうちわ[ED]
+Tengu fan
+
 ひすい[ED]
+Jade
+
 めのう[ED]
+Agate
+
 しんじゅ[ED]
+Pearl
+
 まほうのかたな[ED]
+Magic Katana
+
 まほうのやり[ED]
+Magic spear
+
 よろい[ED]
+Armor
+
 つかう[ED]
+Use
+
 わたす[ED]
+Give
+
 すてる[ED]
+Throw away
+
 はい[ED]
+Yes
+
 いいえ[ED]
+No
+
 のぼるかいだん を みつけた。のぼりますか (3F)[ED]
+You found ascending stairs. Go up?
+
 おりるかいだん を みつけた。(01)つかいますか (3F)[ED]
+You found descending stairs. Go down?
+
 ふすま を あけた。[ED]
+You opened the screen.
+
 いてっ(21) かべにぶつかった(21)[ED]
+Ow! You ran into the wall!
+
 (03)の わなだ(21)(01)それぞれ (02) の(01)きずをおった(21)[ED]
+*
 やり[ED]
+Spear
+
 おとしあな[ED]
+Pitfall
+
 らくせき[ED]
+Falling rocks
+
 みずぜめ[ED]
+*
+
 どくがす[ED]
+Poison gas
+
 あぶらぜめ[ED]
+*
+
 じらい[ED]
+Mine
+
 だれが かいますか (3F)[ED]
+Anyone there?
+
 だれが うりますか (3F)[ED]
+Anyone wanna buy from me?
+
 じん[ED]
 たい [ED]
 たい [ED]
