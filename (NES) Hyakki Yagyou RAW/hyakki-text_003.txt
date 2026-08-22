@@ -112,23 +112,35 @@ Spirit
 Beast sleep
 
 にんい[ED]
+Location
 
 ともづり[ED]
+Decoy
 
 かいくう[ED]
+Warp
 
 そせい[ED]
+Revive
 
 かいげんりっきょう[ED]
+Heal
 
 りっしじょうきょう[ED]
+Morale up
 
 かんのんきょう[ED]
+Full heal
+
 
 げんあくきょう[ED]
+Antidote
 
 むようそう[ED]
+
 どくけし[ED]
+Antidote
+
 げんむそう[ED]
 まじんだけ[ED]
 あいくち[ED]
