@@ -137,30 +137,71 @@ Full heal
 Antidote
 
 むようそう[ED]
+Herb
 
 どくけし[ED]
 Antidote
 
 げんむそう[ED]
+Dream Herb
+
 まじんだけ[ED]
+Devil Mushroom
+
 あいくち[ED]
+Dagger
+
 かわ の よろい[ED]
+Pelt armor
+
 かたな[ED]
+Katana
+
 かぶと[ED]
+Helmet
+
 わきざし[ED]
+Wakizashi
+
 くさりかたびら[ED]
+Chainmail
+
 やり[ED]
+Spear
+
 むらさめ[ED]
+Murasame
+
 ゆみ[ED]
+Bow
+
 てつ の よろい[ED]
+Iron armor
+
 まさむね[ED]
+Masamune
+
 なわ[ED]
+Rope
+
 あみがさ[ED]
+Braid hat
+
 しゃくはち[ED]
+Bamboo Flute
+
 そろばん[ED]
+Abacus
+
 ほうちょう[ED]
+Knife
+
 きづち[ED]
+Wood mallet
+
 ろっかくぼう[ED]
+Hex wrench
+
 きり[ED]
 やすり[ED]
 はりがね[ED]
