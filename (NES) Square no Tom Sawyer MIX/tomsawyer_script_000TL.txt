@@ -1,0 +1,3620 @@
+
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Dialogue Block 01 (POINTER_RELATIVE)
+
+//POINTER #0 @ $18014 - STRING #0 @ $18812
+
+#W16($18014)
+[null]Becky[ED]
+
+
+//POINTER #1 @ $18016 - STRING #1 @ $18819
+
+#W16($18016)
+[null]treasure[ED]
+
+
+
+//POINTER #2 @ $18018 - STRING #2 @ $18824
+
+#W16($18018)
+[null]Southend[ED]
+
+
+//POINTER #3 @ $1801A - STRING #3 @ $1882D
+
+#W16($1801A)
+[null]Monster House[ED]
+
+
+//POINTER #4 @ $1801C - STRING #4 @ $18837
+
+#W16($1801C)
+[null]Monster[ED]
+
+
+//POINTER #5 @ $1801E - STRING #5 @ $1883E
+
+#W16($1801E)
+[null]Injun Joe[ED]
+
+
+//POINTER #6 @ $18020 - STRING #6 @ $1884A
+
+#W16($18020)
+[null]Take that![ED]
+
+
+//POINTER #7 @ $18022 - STRING #7 @ $18859
+
+#W16($18022)
+[null]You bully![ED]
+
+
+//POINTER #8 @ $18024 - STRING #8 @ $1886A
+
+#W16($18024)
+[null]License Card[ED]
+
+
+//POINTER #9 @ $18026 - STRING #9 @ $18876
+
+#W16($18026)
+[null]East City[ED]
+
+
+//POINTER #10 @ $18028 - STRING #10 @ $18880
+
+#W16($18028)
+[null]Northfield[ED]
+
+
+//POINTER #11 @ $1802A - STRING #11 @ $1888A
+
+#W16($1802A)
+[null]St. Peters[ED]
+
+
+//POINTER #12 @ $1802C - STRING #12 @ $18896
+
+#W16($1802C)
+[null]The demon whispered.[ED]
+
+
+//POINTER #13 @ $1802E - STRING #13 @ $188A4
+
+#W16($1802E)
+[null]The angel whispered.[ED]
+
+
+//POINTER #14 @ $18030 - STRING #14 @ $188B2
+
+#W16($18030)
+[null]That item is[ED]
+
+
+//POINTER #15 @ $18032 - STRING #15 @ $188BC
+
+#W16($18032)
+[null]Well, c'mon![ED]
+
+
+//POINTER #16 @ $18034 - STRING #16 @ $188C8
+
+#W16($18034)
+[null]Them wolves stopped attackin' people.[ED]
+
+
+//POINTER #17 @ $18036 - STRING #17 @ $188DF
+
+#W16($18036)
+[null]Captain Silver[ED]
+
+
+//POINTER #18 @ $18038 - STRING #18 @ $188EB
+
+#W16($18038)
+[null]Blue Card[ED]
+
+
+//POINTER #19 @ $1803A - STRING #19 @ $188F4
+
+#W16($1803A)
+[null]Red Card[ED]
+
+
+//POINTER #20 @ $1803C - STRING #20 @ $188FD
+
+#W16($1803C)
+[null]Yellow Card[ED]
+
+
+//POINTER #21 @ $1803E - STRING #21 @ $18907
+
+#W16($1803E)
+[null]Black Magic[ED]
+
+
+//POINTER #22 @ $18040 - STRING #22 @ $18910
+
+#W16($18040)
+[null]Wolf[ED]
+
+
+//POINTER #23 @ $18042 - STRING #23 @ $18917
+
+#W16($18042)
+[null]Friend[ED]
+
+
+//POINTER #24 @ $18044 - STRING #24 @ $1891E
+
+#W16($18044)
+[null]Hannibal[ED]
+
+
+//POINTER #25 @ $18046 - STRING #25 @ $18926
+
+#W16($18046)
+[null]Riverwest[ED]
+
+
+//POINTER #26 @ $18048 - STRING #26 @ $18930
+
+#W16($18048)
+[null]Well[ED]
+
+
+//POINTER #27 @ $1804A - STRING #27 @ $18938
+
+#W16($1804A)
+[null]Treasure hunt[ED]
+
+
+//POINTER #28 @ $1804C - STRING #28 @ $18941
+
+#W16($1804C)
+[null]Well, good luck![ED]
+
+
+//POINTER #29 @ $1804E - STRING #29 @ $1894D
+
+#W16($1804E)
+Tom: If I had[LN]
+a boat, I could[LN]
+cross the river.[ED]
+
+
+//POINTER #30 @ $18050 - STRING #30 @ $18967
+
+#W16($18050)
+Tom: It's too dark![ED]
+
+
+//POINTER #31 @ $18052 - STRING #31 @ $18977
+
+#W16($18052)
+Tom: It says to turn[LN]
+left to reach[LN]
+the exhibition.[ED]
+
+
+//POINTER #32 @ $18054 - STRING #32 @ $18997
+
+#W16($18054)
+Tom: Huh? I caught[LN]
+a bottle with[LN]
+something in it.[ED]
+
+
+//POINTER #33 @ $18056 - STRING #33 @ $189B5
+
+#W16($18056)
+Tom: There's the town[LN]
+of Southend![ED]
+
+
+
+//POINTER #34 @ $18058 - STRING #34 @ $189C5
+
+#W16($18058)
+Jim: I gotta clean[LN]
+this up quick. Boy,[LN]
+can ya help me out?[BR]
+[04][ED]
+Jim:I gotta clean up this quick. Sorry boy, can ya please help me out?
+
+
+//POINTER #35 @ $1805A - STRING #35 @ $189F1
+
+#W16($1805A)
+Jim: Can I come, too?[BR]
+[05][ED]
+
+
+//POINTER #36 @ $1805C - STRING #36 @ $18A0C
+
+#W16($1805C)
+Jim: If I don't head[LN]
+back soon, Auntie's[LN]
+gonna give me[LN]
+a tellin' off.[ED]
+
+
+//POINTER #37 @ $1805E - STRING #37 @ $18A27
+
+#W16($1805E)
+Jim: Help me clean[LN]
+up, boy.[ED]
+
+
+//POINTER #38 @ $18060 - STRING #38 @ $18A3A
+
+#W16($18060)
+Amy: Hey, where you[LN]
+going, Tom?[LN]
+The north forest is[LN]
+up on the north[LN]
+side.[LN]
+Can I come along?[BR]
+[05][ED]
+
+
+//POINTER #39 @ $18062 - STRING #39 @ $18A69
+
+#W16($18062)
+Amy: You'll run into[LN]
+trouble without me.[ED]
+
+
+//POINTER #40 @ $18064 - STRING #40 @ $18A84
+
+#W16($18064)
+Amy: How dare you![LN]
+Can I tag along[LN]
+again?[BR]
+[05][ED]
+
+
+//POINTER #41 @ $18066 - STRING #41 @ $18AA3
+
+#W16($18066)
+Becky: I'm Becky.[LN]
+I'm from Southend![ED]
+
+
+//POINTER #42 @ $18068 - STRING #42 @ $18ABB
+
+#W16($18068)
+Becky: Come and play[LN]
+again![ED]
+
+
+//POINTER #43 @ $1806A - STRING #43 @ $18AC9
+
+#W16($1806A)
+Becky: I got a license[LN]
+card. Too bad, I ain't[LN]
+giving it to you.[ED]
+
+
+//POINTER #44 @ $1806C - STRING #44 @ $18AEA
+
+#W16($1806C)
+Becky: Wow, what[LN]
+a pretty pendant.[LN]
+I'm still not[LN]
+giving you the[LN]
+card.[ED]
+
+
+//POINTER #45 @ $1806E - STRING #45 @ $18B09
+
+#W16($1806E)
+Becky: Wow, what[LN]
+a pretty pendant.[LN]
+Thank you.[ED]
+
+
+//POINTER #46 @ $18070 - STRING #46 @ $18B24
+
+#W16($18070)
+Becky: Hey, Tom,[LN]
+do you like me?[BR]
+[04][ED]
+
+
+//POINTER #47 @ $18072 - STRING #47 @ $18B39
+
+#W16($18072)
+Becky: I like you,[LN]
+too, Tom![LN]
+Okay, I'll give you[LN]
+the license card.[ED]
+
+
+//POINTER #48 @ $18074 - STRING #48 @ $18B57
+
+#W16($18074)
+Becky: Come again![ED]
+
+
+//POINTER #49 @ $18076 - STRING #49 @ $18B62
+
+#W16($18076)
+Becky: What?! Well,[LN]
+I hate you, too,[LN]
+Tom![ED]
+
+
+//POINTER #50 @ $18078 - STRING #50 @ $18B7C
+
+#W16($18078)
+Becky: I can't stand[LN]
+you! Give me back[LN]
+the pendant![ED]
+
+
+//POINTER #51 @ $1807A - STRING #51 @ $18B9D
+
+#W16($1807A)
+Becky: I see you're[LN]
+here to rescue me.[LN]
+Can you take me[LN]
+home?[BR]
+[04][ED]
+
+
+//POINTER #52 @ $1807C - STRING #52 @ $18BBC
+
+#W16($1807C)
+Becky: Yaay![LN]
+Thank you![ED]
+
+
+//POINTER #53 @ $1807E - STRING #53 @ $18BCB
+
+#W16($1807E)
+Becky: I didn't think[LN]
+you'd be so cold![LN]
+We're done![ED]
+
+
+//POINTER #54 @ $18080 - STRING #54 @ $18BEE
+
+#W16($18080)
+Becky: Thank you for[LN]
+bringing me back![ED]
+
+
+//POINTER #55 @ $18082 - STRING #55 @ $18C00
+
+#W16($18082)
+Alfred: Tom! No one[LN]
+gets in the way of[LN]
+love! It's a duel![LN]
+Stand in front![ED]
+
+
+//POINTER #56 @ $18084 - STRING #56 @ $18C28
+
+#W16($18084)
+Alfred: Waah![LN]
+Tom bullied me![ED]
+
+
+//POINTER #57 @ $18086 - STRING #57 @ $18C39
+
+#W16($18086)
+Alfred: How about[LN]
+that?! Don't you[LN]
+meddle with Becky[LN]
+no more![ED]
+
+
+//POINTER #58 @ $18088 - STRING #58 @ $18C59
+
+#W16($18088)
+Alfred: You did good[LN]
+this time! How about[LN]
+we make up, and you[LN]
+become my minion?[BR]
+[04][ED]
+
+
+//POINTER #59 @ $1808A - STRING #59 @ $18C85
+
+#W16($1808A)
+Alfred: Okay then,[LN]
+you better listen to[LN]
+what I say from now[LN]
+on.[ED]
+
+
+//POINTER #60 @ $1808C - STRING #60 @ $18CA0
+
+#W16($1808C)
+Alfred: Gyaah![LN]
+Got it! I'll be your[LN]
+minion! Don't hit me![BR]
+[05][ED]
+
+
+//POINTER #61 @ $1808E - STRING #61 @ $18CC1
+
+#W16($1808E)
+Alfred: Can ya let[LN]
+me join you again?[BR]
+[05][ED]
+
+
+//POINTER #62 @ $18090 - STRING #62 @ $18CD6
+
+#W16($18090)
+Alfred: I'm so sad.[ED]
+
+
+//POINTER #63 @ $18092 - STRING #63 @ $18CE3
+
+#W16($18092)
+Ben: I saw Captain[LN]
+Silver's raft up on[LN]
+the riverbed.[ED]
+
+
+//POINTER #64 @ $18094 - STRING #64 @ $18CF8
+
+#W16($18094)
+Ben: How about[LN]
+a treasure hunt?[LN]
+Bring me a rat's[LN]
+tail, and I'll join[LN]
+ya![ED]
+
+
+//POINTER #65 @ $18096 - STRING #65 @ $18D1A
+
+#W16($18096)
+Ben: Hey, ain't this[LN]
+a rat's tail? Oh, no,[LN]
+I was just kiddin'[LN]
+about the treasure[LN]
+hunt thing and joinin'[LN]
+ya. You can have this,[LN]
+though.[ED]
+
+
+//POINTER #66 @ $18098 - STRING #66 @ $18D57
+
+#W16($18098)
+Ben: It would be[LN]
+a good idea to meet[LN]
+Jack from Hannibal.[ED]
+
+
+//POINTER #67 @ $1809A - STRING #67 @ $18D71
+
+#W16($1809A)
+Huck: Hey, Tom![LN]
+Wanna treasure hunt?[LN]
+I'm too hungry to[LN]
+wanna move.[ED]
+
+
+//POINTER #68 @ $1809C - STRING #68 @ $18D95
+
+#W16($1809C)
+Huck: Huh? Bread for[LN]
+me? I'll join ya.[BR]
+[05][ED]
+
+
+//POINTER #69 @ $1809E - STRING #69 @ $18DB5
+
+#W16($1809E)
+Huck: I'll join you[LN]
+if you give me bread.[ED]
+
+
+//POINTER #70 @ $180A0 - STRING #70 @ $18DCA
+
+#W16($180A0)
+Huck: If you're gonna[LN]
+go treasure hunting,[LN]
+I'm going, too![BR]
+[05][ED]
+
+
+//POINTER #71 @ $180A2 - STRING #71 @ $18DE2
+
+#W16($180A2)
+Bob: Wolves have been[LN]
+comin' out the forest[LN]
+near Northfield.[LN]
+I heard they attack[LN]
+people passin' by.[ED]
+
+
+//POINTER #72 @ $180A4 - STRING #72 @ $18E0A
+
+#W16($180A4)
+Bob: I can join you,[LN]
+but I ain't doing it[LN]
+for free.[ED]
+
+
+//POINTER #73 @ $180A6 - STRING #73 @ $18E24
+
+#W16($180A6)
+Bob: I ain't joinin'[LN]
+you if you don't[LN]
+give me a doorknob.[ED]
+
+
+//POINTER #74 @ $180A8 - STRING #74 @ $18E41
+
+#W16($180A8)
+Bob: Oh, I've been[LN]
+wantin' this. I guess[LN]
+I'll join up with ya.[BR]
+[05][ED]
+
+
+//POINTER #75 @ $180AA - STRING #75 @ $18E63
+
+#W16($180AA)
+Bob: Oh well![LN]
+Come and join with[LN]
+me again.[ED]
+
+
+//POINTER #76 @ $180AC - STRING #76 @ $18E7C
+
+#W16($180AC)
+Bob: You found the[LN]
+pirate's treasure?[LN]
+I already gave it up.[ED]
+
+
+//POINTER #77 @ $180AE - STRING #77 @ $18E96
+
+#W16($180AE)
+Billy: Up in Cardiff[LN]
+Hill lives Old Miss[LN]
+Popkins. She knows[LN]
+a lot.[ED]
+
+
+//POINTER #78 @ $180B0 - STRING #78 @ $18EC0
+
+#W16($180B0)
+Billy: When you find[LN]
+the pirate's treasure,[LN]
+how about you split[LN]
+it between us, and[LN]
+I'll join you?[BR]
+[04][ED]
+
+
+//POINTER #79 @ $180B2 - STRING #79 @ $18EE7
+
+#W16($180B2)
+Billy: Hmph![LN]
+Whatever! Bye-bye![ED]
+
+
+//POINTER #80 @ $180B4 - STRING #80 @ $18EFA
+
+#W16($180B4)
+Sally: Tom, tell me[LN]
+who do you like[LN]
+better, Amy or Becky?[ED]
+
+
+//POINTER #81 @ $180B6 - STRING #81 @ $18F28
+
+#W16($180B6)
+Sally: So you like[LN]
+Amy?[BR]
+[04][ED]
+
+
+//POINTER #82 @ $180B8 - STRING #82 @ $18F38
+
+#W16($180B8)
+Sally: Then, give up[LN]
+on Becky.[ED]
+
+
+//POINTER #83 @ $180BA - STRING #83 @ $18F4B
+
+#W16($180BA)
+Sally: So you like[LN]
+Becky?[BR]
+[04][ED]
+
+
+//POINTER #84 @ $180BC - STRING #84 @ $18F5E
+
+#W16($180BC)
+Sally: You unfaithful[LN]
+brat! How will Amy[LN]
+feel?![ED]
+
+
+//POINTER #85 @ $180BE - STRING #85 @ $18F76
+
+#W16($180BE)
+Sally: So you mean[LN]
+neither?[BR]
+[04][ED]
+
+
+//POINTER #86 @ $180C0 - STRING #86 @ $18F89
+
+#W16($180C0)
+Sally: Then be with[LN]
+me. Can I join you?[BR]
+[04][ED]
+
+
+//POINTER #87 @ $180C2 - STRING #87 @ $18FAC
+
+#W16($180C2)
+Sally: You idiot![LN]
+I wouldn't want to be[LN]
+with a cold-hearted[LN]
+jerk like you anyway![LN]
+Bye![ED]
+
+
+//POINTER #88 @ $180C4 - STRING #88 @ $18FD9
+
+#W16($180C4)
+Sally: Hmph! Well[LN]
+then, I'll just take[LN]
+that back.[ED]
+
+
+//POINTER #89 @ $180C6 - STRING #89 @ $18FF6
+
+#W16($180C6)
+Sally: What the heck[LN]
+are you thinking?![ED]
+
+
+//POINTER #90 @ $180C8 - STRING #90 @ $19012
+
+#W16($180C8)
+Sally: Why, I think[LN]
+you'd be better off[LN]
+finding a pile of[LN]
+trash than pirate's[LN]
+treasure.[ED]
+
+
+//POINTER #91 @ $180CA - STRING #91 @ $19037
+
+#W16($180CA)
+Joe: Hey, Tom! Wolves[LN]
+have been comin' out[LN]
+the forest near here.[LN]
+How about we go get[LN]
+them together?[BR]
+[04][ED]
+
+
+//POINTER #92 @ $180CC - STRING #92 @ $1906B
+
+#W16($180CC)
+Joe: Well, I can join[LN]
+ya treasure hunting[LN]
+after we take care of[LN]
+the wolves.[BR]
+[05][ED]
+
+
+//POINTER #93 @ $180CE - STRING #93 @ $19089
+
+#W16($180CE)
+Joe: Oh, well,[LN]
+I guess I gotta go[LN]
+ask someone else.[ED]
+
+
+//POINTER #94 @ $180D0 - STRING #94 @ $1909C
+
+#W16($180D0)
+Joe: Can I join ya[LN]
+with treasure huntin'[LN]
+again?[BR]
+[05][ED]
+
+
+//POINTER #95 @ $180D2 - STRING #95 @ $190B7
+
+#W16($180D2)
+Joe: I'm sure it'll[LN]
+be tough.[ED]
+
+
+//POINTER #96 @ $180D4 - STRING #96 @ $190CA
+
+#W16($180D4)
+Johnny: You're going[LN]
+treasure huntin'?[LN]
+Would you like it if[LN]
+I tagged along?[BR]
+[05][ED]
+
+
+//POINTER #97 @ $180D6 - STRING #97 @ $190E9
+
+#W16($180D6)
+Johnny: Well,[LN]
+whatever. I'll give[LN]
+ya this rat's tail[LN]
+I found.[ED]
+
+
+//POINTER #98 @ $180D8 - STRING #98 @ $19111
+
+#W16($180D8)
+Johnny: Let me know[LN]
+if you change your[LN]
+mind.[ED]
+
+
+//POINTER #99 @ $180DA - STRING #99 @ $19126
+
+#W16($180DA)
+Dick: I've came[LN]
+looking for a cross,[LN]
+but I got lost in[LN]
+the forest.[LN]
+Can you let me join[LN]
+you and get me out[LN]
+of here?![BR]
+[04][ED]
+
+
+//POINTER #100 @ $180DC - STRING #100 @ $1915C
+
+#W16($180DC)
+Dick: What?! I got[LN]
+myself lost again![LN]
+Can I join you?[BR]
+[05][ED]
+
+
+//POINTER #101 @ $180DE - STRING #101 @ $19179
+
+#W16($180DE)
+Indy: If only I still[LN]
+had a bible...[ED]
+
+
+//POINTER #102 @ $180E0 - STRING #102 @ $19193
+
+#W16($180E0)
+Indy: Is that[LN]
+a bible? I'm not[LN]
+afraid of monsters[LN]
+with it. Can I join?[BR]
+[05][ED]
+
+
+//POINTER #103 @ $180E2 - STRING #103 @ $191BC
+
+#W16($180E2)
+Indy: You're gonna[LN]
+regret this![ED]
+
+
+//POINTER #104 @ $180E4 - STRING #104 @ $191CE
+
+#W16($180E4)
+Indy: You! Can I join[LN]
+you treasure huntin'?[BR]
+[04][ED]
+
+
+//POINTER #105 @ $180E6 - STRING #105 @ $191E6
+
+#W16($180E6)
+Willy: Cardiff Hill[LN]
+is just up after the[LN]
+red forest pier[LN]
+that's downstream.[ED]
+
+
+//POINTER #106 @ $180E8 - STRING #106 @ $19217
+
+#W16($180E8)
+Willy: I gotta help[LN]
+mom out. Instead of[LN]
+going treasure[LN]
+hunting, I'll give[LN]
+you this yellow[LN]
+card.[ED]
+
+
+//POINTER #107 @ $180EA - STRING #107 @ $19242
+
+#W16($180EA)
+Sid: You goin' out[LN]
+causing trouble[LN]
+again? I'll tell[LN]
+Aunt Polly about[LN]
+this![ED]
+
+
+//POINTER #108 @ $180EC - STRING #108 @ $19265
+
+#W16($180EC)
+Sid: You like this[LN]
+pretty tile? Well,[LN]
+I ain't givin' it[LN]
+to you![ED]
+
+
+//POINTER #109 @ $180EE - STRING #109 @ $19287
+
+#W16($180EE)
+Sid: Waah! You took[LN]
+my tile![ED]
+
+
+//POINTER #110 @ $180F0 - STRING #110 @ $192A0
+
+#W16($180F0)
+Sid: I'm gonna tell[LN]
+Auntie about this![ED]
+
+
+//POINTER #111 @ $180F2 - STRING #111 @ $192B3
+
+#W16($180F2)
+Mary: If you wanna[LN]
+get the bible, you'll[LN]
+have to get the[LN]
+cards.[ED]
+
+
+//POINTER #112 @ $180F4 - STRING #112 @ $192D5
+
+#W16($180F4)
+Mary: Take the blue[LN]
+card.[ED]
+
+
+//POINTER #113 @ $180F6 - STRING #113 @ $192E3
+
+#W16($180F6)
+Mary: I'd suggest[LN]
+you take the card[LN]
+and head to Riverwest[LN]
+Middle School.[ED]
+
+
+//POINTER #114 @ $180F8 - STRING #114 @ $19304
+
+#W16($180F8)
+Polly: Come back,[LN]
+and don't get into[LN]
+any trouble.[ED]
+
+
+//POINTER #115 @ $180FA - STRING #115 @ $1931B
+
+#W16($180FA)
+Polly: If you're[LN]
+tired, you should[LN]
+rest.[BR]
+[04][ED]
+
+
+//POINTER #116 @ $180FC - STRING #116 @ $19330
+
+#W16($180FC)
+Polly: You sure you[LN]
+don't wanna rest?[ED]
+
+
+//POINTER #117 @ $180FE - STRING #117 @ $19346
+
+#W16($180FE)
+Lola: Well, Tom, you[LN]
+came at a good time.[LN]
+Can you take this[LN]
+letter to Old Man[LN]
+Hayes?[BR]
+[04][ED]
+
+
+//POINTER #118 @ $18100 - STRING #118 @ $19373
+
+#W16($18100)
+Lola: I'm counting[LN]
+on you. Old Man Hayes[LN]
+is in the north[LN]
+forest.[ED]
+
+
+//POINTER #119 @ $18102 - STRING #119 @ $19398
+
+#W16($18102)
+Lola: Kids these days[LN]
+only care to play[LN]
+around and not help[LN]
+out![ED]
+
+
+//POINTER #120 @ $18104 - STRING #120 @ $193C1
+
+#W16($18104)
+Lola: Thank you.[ED]
+
+
+//POINTER #121 @ $18106 - STRING #121 @ $193D1
+
+#W16($18106)
+Janet: Good morning,[LN]
+Tom! You going[LN]
+treasure hunting?[LN]
+It's dangerous[LN]
+alone.[ED]
+
+
+//POINTER #122 @ $18108 - STRING #122 @ $193F3
+
+#W16($18108)
+Janet: Hello![LN]
+We meet again![ED]
+
+
+//POINTER #123 @ $1810A - STRING #123 @ $19405
+
+#W16($1810A)
+Janet: Good evening![LN]
+Did you come to play?[ED]
+
+
+//POINTER #124 @ $1810C - STRING #124 @ $19423
+
+#W16($1810C)
+Ace: You guys going[LN]
+looking for treasure?[LN]
+I gotta good story,[LN]
+but I'm not telling.[LN]
+Well, good luck![ED]
+
+
+//POINTER #125 @ $1810E - STRING #125 @ $1944D
+
+#W16($1810E)
+Ace: Did you find the[LN]
+pirate's treasure?[LN]
+If you get me a rat's[LN]
+tail, I'll tell you[LN]
+something good.[BR]
+[04][ED]
+
+
+//POINTER #126 @ $18110 - STRING #126 @ $1947E
+
+#W16($18110)
+Ace: Did you find the[LN]
+pirate's treasure?[LN]
+Well, good luck![ED]
+
+
+//POINTER #127 @ $18112 - STRING #127 @ $19490
+
+#W16($18112)
+Ace: well, isn't this[LN]
+a rat's tail! I'll[LN]
+tell you then.[BR]
+If you go all the[LN]
+way down the river,[LN]
+you should reach[LN]
+Southend. Be careful[LN]
+of the monster that[LN]
+use black magic.[ED]
+
+
+//POINTER #128 @ $18114 - STRING #128 @ $194E8
+
+#W16($18114)
+Ace: Well, I'm giving[LN]
+up on searchin' for[LN]
+treasure! I'm headin'[LN]
+home![LN]
+You think I'm gonna[LN]
+go up against[LN]
+monsters?! You guys[LN]
+should give up, too![ED]
+
+
+//POINTER #129 @ $18116 - STRING #129 @ $19520
+
+#W16($18116)
+Jamie: I think Becky[LN]
+has a crush on Tom.[LN]
+She's gotten jealous[LN]
+from seeing Amy[LN]
+hanging around him.[ED]
+
+
+//POINTER #130 @ $18118 - STRING #130 @ $1954D
+
+#W16($18118)
+Jamie: Hey, Tom![LN]
+How are ya? Worse[LN]
+and Sauce are[LN]
+looking for you.[ED]
+
+
+//POINTER #131 @ $1811A - STRING #131 @ $19572
+
+#W16($1811A)
+Hayes: Hey, you came[LN]
+here lookin' for[LN]
+trouble again?[LN]
+Go home, you brats![ED]
+
+
+//POINTER #132 @ $1811C - STRING #132 @ $19598
+
+#W16($1811C)
+Hayes: Yah! You came[LN]
+here on an errand?[LN]
+Sorry 'bout that![BR]
+Yep! that monster[LN]
+housed up in[LN]
+Southend's got some[LN]
+pirate treasure[LN]
+hidden init.[BR]
+With a license card,[LN]
+I wouldn't go up[LN]
+there with those[LN]
+black magic guys[LN]
+goin' through.[BR]
+I suggest you brats[LN]
+stay away.[ED]
+
+
+//POINTER #133 @ $1811E - STRING #133 @ $1961B
+
+#W16($1811E)
+Hayes: Yah![LN]
+You better stay away[LN]
+from that monster[LN]
+house.[ED]
+
+
+//POINTER #134 @ $18120 - STRING #134 @ $19634
+
+#W16($18120)
+Earp: I'm the sheriff.[LN]
+I guard this pier.[LN]
+You got a license[LN]
+card?[BR]
+[04][ED]
+
+
+//POINTER #135 @ $18122 - STRING #135 @ $19666
+
+#W16($18122)
+Earp: I'll let you[LN]
+through. Go on![LN]
+Stay safe.[ED]
+
+
+//POINTER #136 @ $18124 - STRING #136 @ $1968A
+
+#W16($18124)
+Earp: Liar! Show me[LN]
+your license card![ED]
+
+
+//POINTER #137 @ $18126 - STRING #137 @ $196A6
+
+#W16($18126)
+Earp: I'm sorry,[LN]
+but I can't let[LN]
+you through![ED]
+
+
+//POINTER #138 @ $18128 - STRING #138 @ $196C0
+
+#W16($18128)
+Jeff: Hey, Tom![LN]
+Cousin Becky has[LN]
+a license card.[ED]
+
+
+//POINTER #139 @ $1812A - STRING #139 @ $196DE
+
+#W16($1812A)
+Jeff: You got a card?[LN]
+Wanna go treasure[LN]
+hunting?[ED]
+
+
+//POINTER #140 @ $1812C - STRING #140 @ $196F5
+
+#W16($1812C)
+Gracie: Okay, when[LN]
+you want a girl to do[LN]
+something for you,[LN]
+you should give[LN]
+something like[LN]
+a pendant as[LN]
+a present.[ED]
+
+
+//POINTER #141 @ $1812E - STRING #141 @ $19724
+
+#W16($1812E)
+Gracie: Y'know, that[LN]
+greedy Billy might[LN]
+want to go treasure[LN]
+hunting.[ED]
+
+
+//POINTER #142 @ $18130 - STRING #142 @ $19744
+
+#W16($18130)
+Worce: You, Tom![LN]
+Let's settle things[LN]
+today![ED]
+
+
+//POINTER #143 @ $18132 - STRING #143 @ $19762
+
+#W16($18132)
+[null]Waah! You'll pay[LN]
+for this![ED]
+
+
+//POINTER #144 @ $18134 - STRING #144 @ $19772
+
+#W16($18134)
+[null]Take that![LN]
+We creamed you![ED]
+
+
+//POINTER #145 @ $18136 - STRING #145 @ $19780
+
+#W16($18136)
+Sauce: You did pretty[LN]
+good. We won't lose[LN]
+this time![ED]
+
+
+//POINTER #146 @ $18138 - STRING #146 @ $1979E
+
+#W16($18138)
+Worce: We're the[LN]
+unbeatable twins,[LN]
+the great Worse[LN]
+and Sauce![LN]
+Again, we'll both[LN]
+make you pay![ED]
+
+
+//POINTER #147 @ $1813A - STRING #147 @ $197CC
+
+#W16($1813A)
+[null]You bully![LN]
+Why don't you go get[LN]
+beat up by someone[LN]
+like Injun Joe?![ED]
+
+
+//POINTER #148 @ $1813C - STRING #148 @ $197E5
+
+#W16($1813C)
+[null]Take that![LN]
+We're the best![ED]
+
+
+//POINTER #149 @ $1813E - STRING #149 @ $197F3
+
+#W16($1813E)
+[null]You bully![LN]
+Why don't you go[LN]
+get done in by[LN]
+black magic?![ED]
+
+
+//POINTER #150 @ $18140 - STRING #150 @ $1980A
+
+#W16($18140)
+Temple: You've done[LN]
+well to come.[LN]
+If you're looking for[LN]
+Alfred, they've went[LN]
+off to St. Peter's.[ED]
+
+
+//POINTER #151 @ $18142 - STRING #151 @ $19827
+
+#W16($18142)
+Temple: You've done[LN]
+well to come.[LN]
+Come on in and rest.[BR]
+[04][ED]
+
+
+//POINTER #152 @ $18144 - STRING #152 @ $1983D
+
+#W16($18144)
+Bill: Have you met[LN]
+that freeloader,[LN]
+Huck?[BR]
+
+
+//POINTER #153 @ $18146 - STRING #153 @ $19853
+
+#W16($18146)
+Bill: Huck's my hero.[ED]
+
+
+//POINTER #154 @ $18148 - STRING #154 @ $19866
+
+#W16($18148)
+Bill: Huck's up being[LN]
+hungry in the forest.[ED]
+
+
+//POINTER #155 @ $1814A - STRING #155 @ $19886
+
+#W16($1814A)
+Bill: Have you found[LN]
+the pirate's treasure?[ED]
+
+
+//POINTER #156 @ $1814C - STRING #156 @ $19897
+
+#W16($1814C)
+Walters: Good for you[LN]
+for coming to sunday[LN]
+school. You got[LN]
+a card?[BR]
+Ya can get a red card[LN]
+for two blue cards,[LN]
+or a yellow card for[LN]
+two red cards.[BR]
+If ya turn in three[LN]
+yellow cards, you can[LN]
+get a pretty nice[LN]
+bible.[ED]
+
+
+//POINTER #157 @ $1814E - STRING #157 @ $198FD
+
+#W16($1814E)
+Walters: If you do[LN]
+a good deed, I'll[LN]
+give you a blue[LN]
+card.[ED]
+
+
+//POINTER #158 @ $18150 - STRING #158 @ $1991B
+
+#W16($18150)
+Walters: Ya seem[LN]
+to have done a good[LN]
+deed. Take this[LN]
+blue card.[ED]
+Walters:Ya seem to have done a good deed, take this blue card then.
+
+
+//POINTER #159 @ $18152 - STRING #159 @ $1993A
+
+#W16($18152)
+Walters: Ya got two[LN]
+blue cards, I see.[LN]
+I'll give you a red[LN]
+card.[ED]
+
+
+//POINTER #160 @ $18154 - STRING #160 @ $19953
+
+#W16($18154)
+Walters: Ya got two[LN]
+red cards, I see.[LN]
+I'll give you[LN]
+a yellow card.[ED]
+
+
+//POINTER #161 @ $18156 - STRING #161 @ $1996C
+
+#W16($18156)
+Walters: Oh, I see[LN]
+ya got three yellow[LN]
+cards.[LN]
+Congratulations![LN]
+You can have this[LN]
+bible as a present.[ED]
+
+
+//POINTER #162 @ $18158 - STRING #162 @ $1999F
+
+#W16($18158)
+Richard: I'm makin'[LN]
+a canoe, but I need[LN]
+some rope. You got[LN]
+any?[BR]
+[04][ED]
+
+
+//POINTER #163 @ $1815A - STRING #163 @ $199BD
+
+#W16($1815A)
+Richard: Lemme borrow[LN]
+the rope.[ED]
+
+
+//POINTER #164 @ $1815C - STRING #164 @ $199CB
+
+#W16($1815C)
+Richard: Sorry, but[LN]
+I lost my saw down in[LN]
+the south forest.[LN]
+If you find it,[LN]
+I can make a canoe.[ED]
+
+
+//POINTER #165 @ $1815E - STRING #165 @ $19A09
+
+#W16($1815E)
+Richard: Sorry, but[LN]
+I can't make a canoe.[ED]
+
+
+//POINTER #166 @ $18160 - STRING #166 @ $19A20
+
+#W16($18160)
+Richard: Ooh, now[LN]
+I can go make that[LN]
+canoe![ED]
+
+
+//POINTER #167 @ $18162 - STRING #167 @ $19A3E
+
+#W16($18162)
+Richard: There![LN]
+Finished it up![LN]
+Be careful on[LN]
+crossing the river.[ED]
+
+
+//POINTER #168 @ $18164 - STRING #168 @ $19A5C
+
+#W16($18164)
+Richard: How about[LN]
+it? It's a good[LN]
+canoe, you think?[ED]
+
+
+//POINTER #169 @ $18166 - STRING #169 @ $19A6E
+
+#W16($18166)
+Susan: There seems to[LN]
+be a strange man that[LN]
+asks quizzes in the[LN]
+forest on the way to[LN]
+Southend.[ED]
+
+
+//POINTER #170 @ $18168 - STRING #170 @ $19A9C
+
+#W16($18168)
+Susan: I have a tile[LN]
+on me. I'll trade[LN]
+with you if you have[LN]
+a red card.[ED]
+
+
+//POINTER #171 @ $1816A - STRING #171 @ $19ACA
+
+#W16($1816A)
+Susan: Alright,[LN]
+here's the tile.[ED]
+
+
+//POINTER #172 @ $1816C - STRING #172 @ $19ADA
+
+#W16($1816C)
+Susan: Go treasure[LN]
+hunting if you want![LN]
+Don't miss school,[LN]
+or I'll get mad![ED]
+
+
+//POINTER #173 @ $1816E - STRING #173 @ $19AF9
+
+#W16($1816E)
+White: If you meet[LN]
+Captain Silver,[LN]
+I want you to give[LN]
+him this medicine.[ED]
+
+
+//POINTER #174 @ $18170 - STRING #174 @ $19B18
+
+#W16($18170)
+White: You should[LN]
+come here if you get[LN]
+hurt.[ED]
+
+
+//POINTER #175 @ $18172 - STRING #175 @ $19B2C
+
+#W16($18172)
+White: Are you hurt?[LN]
+How about I heal you[LN]
+up?[BR]
+[04][ED]
+
+
+//POINTER #176 @ $18174 - STRING #176 @ $19B49
+
+#W16($18174)
+White: Okay, you[LN]
+should be fine now.[ED]
+
+
+//POINTER #177 @ $18176 - STRING #177 @ $19B5A
+
+#W16($18176)
+White: I see...[LN]
+Don't go too hard[LN]
+on yourself.[ED]
+
+
+//POINTER #178 @ $18178 - STRING #178 @ $19B6A
+
+#W16($18178)
+Silver: What do you[LN]
+want? I don't got[LN]
+anything to do, so[LN]
+I'm heading home.[LN]
+*cough, cough*[ED]
+
+
+//POINTER #179 @ $1817A - STRING #179 @ $19B95
+
+#W16($1817A)
+Silver: They've been[LN]
+using those black[LN]
+magic monsters to[LN]
+ravage things up[LN]
+around here lately.[ED]
+
+
+//POINTER #180 @ $1817C - STRING #180 @ $19BBD
+
+#W16($1817C)
+Silver: Ooh,[LN]
+my daughter's okay?[LN]
+Thank you. My body[LN]
+should be feeling[LN]
+better knowing this.[BR]
+That quack ain't[LN]
+all that bad.[LN]
+Oh, you should take[LN]
+this dove.[BR]
+If you're in trouble,[LN]
+just release it.[LN]
+I might be able to be[LN]
+of some help.[ED]
+
+
+//POINTER #181 @ $1817E - STRING #181 @ $19C3A
+
+#W16($1817E)
+Silver: Now, go on[LN]
+then. Stay safe.[ED]
+
+
+//POINTER #182 @ $18180 - STRING #182 @ $19C4E
+
+#W16($18180)
+Tracy: Have you met[LN]
+Miss Douglas?[LN]
+She's been looking[LN]
+for Huck.[ED]
+
+
+//POINTER #183 @ $18182 - STRING #183 @ $19C76
+
+#W16($18182)
+Tracy: I have a tile.[LN]
+I'll trade it to you[LN]
+for a glass ball.[ED]
+
+
+//POINTER #184 @ $18184 - STRING #184 @ $19CA2
+
+#W16($18184)
+Tracy: Here you go.[LN]
+Take the tile.[ED]
+
+
+//POINTER #185 @ $18186 - STRING #185 @ $19CB1
+
+#W16($18186)
+Douglas: Well, if it[LN]
+ain't Tom! You doin'[LN]
+well?[BR]
+Isn't Huck with you?[BR]
+I would like it if[LN]
+you brought him here.[LN]
+I gotta talk to him.[ED]
+
+
+//POINTER #186 @ $18188 - STRING #186 @ $19CFD
+
+#W16($18188)
+Douglas: Ooh, I see[LN]
+you brought Huck with[LN]
+you. I appreciate it.[BR]
+Here, take this clock,[LN]
+Huck. Your Mama[LN]
+Margaret gave it to[LN]
+me after she left[LN]
+home without you.[BR]
+I heard that people[LN]
+have seen her in[LN]
+Hannibal.[ED]
+
+
+//POINTER #187 @ $1818A - STRING #187 @ $19D7B
+
+#W16($1818A)
+Douglas: How 'bout we[LN]
+rest before headin'[LN]
+out?[BR]
+[04][ED]
+
+
+//POINTER #188 @ $1818C - STRING #188 @ $19D92
+
+#W16($1818C)
+Hopkins: Oh, hello[LN]
+there little ones.[LN]
+Do you have something[LN]
+to show me that I can[LN]
+tell you about? Lemme[LN]
+see.[ED]
+
+
+//POINTER #189 @ $1818E - STRING #189 @ $19DCD
+
+#W16($1818E)
+Hopkins: If you ever[LN]
+get your hands on[LN]
+a wolf fang, bring it[LN]
+here.[LN]
+I'll give you[LN]
+something useful.[ED]
+
+
+//POINTER #190 @ $18190 - STRING #190 @ $19DFB
+
+#W16($18190)
+Hopkins: That item[LN]
+there is a tile.[LN]
+If you collect eight[LN]
+of them, they'll show[LN]
+you where the[LN]
+pirate's treasure is[LN]
+located.[ED]
+
+
+//POINTER #191 @ $18192 - STRING #191 @ $19E24
+
+#W16($18192)
+Hopkins: That item[LN]
+there is a bible.[LN]
+It'll reveal the[LN]
+monsters' true form.[LN]
+You can use it to[LN]
+take them out.[ED]
+
+
+//POINTER #192 @ $18194 - STRING #192 @ $19E58
+
+#W16($18194)
+Hopkins: That item[LN]
+there is a lamp.[LN]
+I'd use it as soon as[LN]
+you get in a cave.[ED]
+
+
+//POINTER #193 @ $18196 - STRING #193 @ $19E82
+
+#W16($18196)
+Hopkins: Is that[LN]
+a wolf fang?[LN]
+Hurry up, and give[LN]
+it to me![BR]
+Here ya go,[LN]
+as I promised.[LN]
+This here is[LN]
+a form sphere.[LN]
+It has the power[LN]
+to make you[LN]
+invincible.[BR]
+However, it'll only[LN]
+work with those with[LN]
+true courage.[ED]
+
+
+//POINTER #194 @ $18198 - STRING #194 @ $19EF8
+
+#W16($18198)
+Hopkins: That them[LN]
+there is a form[LN]
+sphere.[LN]
+Wha! I already[LN]
+explained it to you,[LN]
+you dummy![ED]
+
+
+//POINTER #195 @ $1819A - STRING #195 @ $19F21
+
+#W16($1819A)
+Hopkins: That item[LN]
+there is a torn map.[LN]
+I'd use it somewhere[LN]
+you'd want to return[LN]
+to.[ED]
+
+
+//POINTER #196 @ $1819C - STRING #196 @ $19F49
+
+#W16($1819C)
+Hopkins: That item[LN]
+there is a 'las'.[LN]
+You can use it to[LN]
+return where you[LN]
+used the 'at'.[ED]
+
+
+//POINTER #197 @ $1819E - STRING #197 @ $19F78
+
+#W16($1819E)
+Hopkins: That item[LN]
+there is Dolittle's[LN]
+Dictionary. You can[LN]
+use it to talk to[LN]
+animals.[ED]
+
+
+//POINTER #198 @ $181A0 - STRING #198 @ $19FA0
+
+#W16($181A0)
+Hopkins: That item[LN]
+there is a trap.[LN]
+You can use it for[LN]
+trapping the wolf's[LN]
+leader.[BR]
+However, it won't[LN]
+work unless you place[LN]
+it on the path.[ED]
+
+
+//POINTER #199 @ $181A2 - STRING #199 @ $19FE6
+
+#W16($181A2)
+Hopkins: That item[LN]
+there is a bang snap.[LN]
+You can use it to[LN]
+wake someone up.[ED]
+
+
+//POINTER #200 @ $181A4 - STRING #200 @ $1A010
+
+#W16($181A4)
+Hopkins: That item[LN]
+there is a cross.[LN]
+Monsters hate that[LN]
+thing.[ED]
+
+
+//POINTER #201 @ $181A6 - STRING #201 @ $1A02E
+
+#W16($181A6)
+Hopkins: That item[LN]
+there is a medal.[LN]
+It can heal your[LN]
+entire party's[LN]
+strength.[ED]
+
+
+//POINTER #202 @ $181A8 - STRING #202 @ $1A05E
+
+#W16($181A8)
+Hopkins: Now, even[LN]
+I don't know what[LN]
+this item there is?[ED]
+
+
+//POINTER #203 @ $181AA - STRING #203 @ $1A075
+
+#W16($181AA)
+Hopkins: Come again[LN]
+if you find something[LN]
+you don't know about.[ED]
+
+
+//POINTER #204 @ $181AC - STRING #204 @ $1A091
+
+#W16($181AC)
+Morgan: Hey, you![LN]
+How about you play[LN]
+rock-paper-scissors[LN]
+with me?[LN]
+If ya win against[LN]
+me, I'll give ya[LN]
+a strange item.[ED]
+
+
+//POINTER #205 @ $181AE - STRING #205 @ $1A0C4
+
+#W16($181AE)
+Morgan: You're pretty[LN]
+good, huh? I lost.[LN]
+As I promised, here's[LN]
+that strange item.[ED]
+
+
+//POINTER #206 @ $181B0 - STRING #206 @ $1A0F3
+
+#W16($181B0)
+Morgan: Ha-ha![LN]
+You're not that good,[LN]
+are ya? Ya don't got[LN]
+enough experience![LN]
+Try 'gain![ED]
+
+
+//POINTER #207 @ $181B2 - STRING #207 @ $1A11B
+
+#W16($181B2)
+Morgan: Hey, kid![LN]
+I may have lost then,[LN]
+but I ain't this[LN]
+time![BR]
+If ya beat me this[LN]
+time, I'll give you[LN]
+another useful thing.[LN]
+If ya pair it up with[LN]
+the other item, it'll[LN]
+show off its new[LN]
+power.[ED]
+
+
+//POINTER #208 @ $181B4 - STRING #208 @ $1A172
+
+#W16($181B4)
+Doggie: Ruff! Ruff![ED]
+
+
+//POINTER #209 @ $181B6 - STRING #209 @ $1A17F
+
+#W16($181B6)
+Doggie: I'm Doggie,[LN]
+ruff! The wolf leader[LN]
+often comes around[LN]
+the east end of[LN]
+the path in front[LN]
+of the mountain[LN]
+cottage.[ED]
+
+
+//POINTER #210 @ $181B8 - STRING #210 @ $1A1B0
+
+#W16($181B8)
+Palmer: It don't[LN]
+matter how many[LN]
+wolves we get.[LN]
+Unless we get the[LN]
+leader controlling[LN]
+'em, they'll keep[LN]
+on attackin' people.[ED]
+
+
+//POINTER #211 @ $181BA - STRING #211 @ $1A1F3
+
+#W16($181BA)
+[null]The wolves stopped[LN]
+attacking people.[ED]
+
+
+//POINTER #212 @ $181BC - STRING #212 @ $1A1F9
+
+#W16($181BC)
+Nick: I'm a fisher.[LN]
+I came up here to[LN]
+take care of them[LN]
+wolves.[BR]
+You're here to take[LN]
+care of 'em, too?[LN]
+If so, I'd use this[LN]
+trap here.[LN]
+It would be a good[LN]
+to place it somewhere[LN]
+in the forest.[ED]
+
+
+//POINTER #213 @ $181BE - STRING #213 @ $1A24D
+
+#W16($181BE)
+Nick: Well, have[LN]
+ya caught the wolf[LN]
+leader?[BR]
+[04][ED]
+
+
+//POINTER #214 @ $181C0 - STRING #214 @ $1A267
+
+#W16($181C0)
+Nick: I see...[LN]
+Now, I can fish[LN]
+in peace.[ED]
+
+
+//POINTER #215 @ $181C2 - STRING #215 @ $1A285
+
+#W16($181C2)
+Nick: I see...[LN]
+They're pretty[LN]
+clever. Stay safe.[ED]
+
+
+//POINTER #216 @ $181C4 - STRING #216 @ $1A2A2
+
+#W16($181C4)
+[null]The devil whispered.[LN]
+It's just been a bad[LN]
+dream up 'til now![ED]
+
+
+//POINTER #217 @ $181C6 - STRING #217 @ $1A2B7
+
+#W16($181C6)
+Leader: Please, let[LN]
+me go from this trap![LN]
+I won't attack people[LN]
+anymore![LN]
+Can you set me free?[BR]
+[04][ED]
+
+
+//POINTER #218 @ $181C8 - STRING #218 @ $1A2EF
+
+#W16($181C8)
+Leader: Gya-ha-ha![LN]
+You fool! I got ya,[LN]
+now that I'm free![ED]
+
+
+//POINTER #219 @ $181CA - STRING #219 @ $1A30F
+
+#W16($181CA)
+Leader: Let's make[LN]
+a deal. If you undo[LN]
+this trap, I'll give[LN]
+you a wolf fang.[ED]
+
+
+//POINTER #220 @ $181CC - STRING #220 @ $1A339
+
+#W16($181CC)
+Jack: I'll give you[LN]
+some magic shoes if[LN]
+you beat me in a race[LN]
+to the cedar tree on[LN]
+the edge of town.[LN]
+Wanna race me?[BR]
+[04][ED]
+
+
+//POINTER #221 @ $181CE - STRING #221 @ $1A375
+
+#W16($181CE)
+Jack: Run east from[LN]
+here. Use and A and[LN]
+B buttons to move.[LN]
+You got that?[ED]
+
+
+//POINTER #222 @ $181D0 - STRING #222 @ $1A3AB
+
+#W16($181D0)
+Jack: Oh, I see...[LN]
+Well, maybe some'n[LN]
+else.[ED]
+
+
+//POINTER #223 @ $181D2 - STRING #223 @ $1A3C2
+
+#W16($181D2)
+Jack: You're pretty[LN]
+fast. Here's those[LN]
+shoes I promised.[LN]
+You can run twice[LN]
+as fast with 'em.[ED]
+
+
+//POINTER #224 @ $181D4 - STRING #224 @ $1A3FD
+
+#W16($181D4)
+(   ): Too bad.[LN]
+Come and challenge[LN]
+me again.[ED]
+
+
+//POINTER #225 @ $181D6 - STRING #225 @ $1A419
+
+#W16($181D6)
+Jack: Zzzz...[ED]
+
+
+//POINTER #226 @ $181D8 - STRING #226 @ $1A425
+
+#W16($181D8)
+Watson: Zzzz... Zzzz...[ED]
+
+
+//POINTER #227 @ $181DA - STRING #227 @ $1A437
+
+#W16($181DA)
+Watson: Waah! Hey![LN]
+You troublesome kids,[LN]
+you got in the way of[LN]
+my nice nap! What do[LN]
+you want with me?![BR]
+[04][ED]
+
+
+//POINTER #228 @ $181DC - STRING #228 @ $1A46E
+
+#W16($181DC)
+
+Watson: I see...[LN]
+You wanna beat Jack,[LN]
+huh? Then, take this[LN]
+cloak.[BR]
+He used to be such[LN]
+a slowpoke, but with[LN]
+them magic shoes[LN]
+I made, he became[LN]
+much faster at[LN]
+runnin'.[BR]
+Use this. You should[LN]
+be able to run twice[LN]
+as fast.[ED]
+
+
+//POINTER #229 @ $181DE - STRING #229 @ $1A4EC
+
+#W16($181DE)
+Watson: If you're[LN]
+done, then get on![LN]
+Shh! Shh! I'm tired.[LN]
+Zzzz...[ED]
+
+
+//POINTER #230 @ $181E0 - STRING #230 @ $1A51D
+
+#W16($181E0)
+Wadkins: Can you stay[LN]
+a sec? I'm Wadkins,[LN]
+King of Quizzes.[BR]
+If you answer my[LN]
+quiz, I'll heal your[LN]
+wounds. You in?[BR]
+[04][ED]
+
+
+//POINTER #231 @ $181E2 - STRING #231 @ $1A568
+
+#W16($181E2)
+Wadkins: Here we go![LN]
+Was Becky's clothes[LN]
+colored white?[BR]
+[04][ED]
+
+
+//POINTER #232 @ $181E4 - STRING #232 @ $1A582
+
+#W16($181E4)
+Wadkins: Here we go![LN]
+Is Franklin weak[LN]
+to the bible?[BR]
+[04][ED]
+
+
+//POINTER #233 @ $181E6 - STRING #233 @ $1A59C
+
+#W16($181E6)
+Wadkins: Here we go![LN]
+Is Captain Silver's[LN]
+daughter named Chris?[BR]
+[04][ED]
+
+
+//POINTER #234 @ $181E8 - STRING #234 @ $1A5B4
+
+#W16($181E8)
+Wadkins: Here we go![LN]
+Does Alfred's house[LN]
+have two floors?[BR]
+[04][ED]
+
+
+//POINTER #235 @ $181EA - STRING #235 @ $1A5CE
+
+#W16($181EA)
+Wadkins: Here we go![LN]
+Is Huck some kid's[LN]
+hero?[BR]
+[04][ED]
+
+
+//POINTER #236 @ $181EC - STRING #236 @ $1A5E6
+
+#W16($181EC)
+Wadkins: Here we go![LN]
+Is Becky's house[LN]
+colored white?[BR]
+[04][ED]
+
+
+//POINTER #237 @ $181EE - STRING #237 @ $1A5FD
+
+#W16($181EE)
+Wadkins: Here we go![LN]
+Are Worce and Sauce[LN]
+twins?[BR]
+[04][ED]
+
+
+//POINTER #238 @ $181F0 - STRING #238 @ $1A616
+
+#W16($181F0)
+Wadkins: Here we go![LN]
+Are there ten trees[LN]
+in the tree line?[BR]
+[04][ED]
+
+
+//POINTER #239 @ $181F2 - STRING #239 @ $1A62E
+
+#W16($181F2)
+Wadkins: Here we go![LN]
+Is Polly Tom's[LN]
+mother?[BR]
+[04][ED]
+
+
+//POINTER #240 @ $181F4 - STRING #240 @ $1A645
+
+#W16($181F4)
+Wadkins: Here we go![LN]
+Is the woodcutter's[LN]
+name Samson?[BR]
+[04][ED]
+
+
+//POINTER #241 @ $181F6 - STRING #241 @ $1A65F
+
+#W16($181F6)
+Wadkins: Here we go![LN]
+Does Chris live in[LN]
+Riverwest?[BR]
+[04][ED]
+
+
+//POINTER #242 @ $181F8 - STRING #242 @ $1A676
+
+#W16($181F8)
+Wadkins: Here we go![LN]
+Is the Quiz King[LN]
+a great man?[BR]
+[04][ED]
+
+
+//POINTER #243 @ $181FA - STRING #243 @ $1A68C
+
+#W16($181FA)
+Wadkins: Well,[LN]
+I ain't healing you![LN]
+Give up! Go home![ED]
+
+
+//POINTER #244 @ $181FC - STRING #244 @ $1A6AF
+
+#W16($181FC)
+Wadkins: That's right![LN]
+You're pretty good,[LN]
+huh? You're body's[LN]
+gettin' better.[ED]
+
+
+//POINTER #245 @ $181FE - STRING #245 @ $1A6D2
+
+#W16($181FE)
+Wadkins: Wrong, you[LN]
+fool! Take this![ED]
+
+
+//POINTER #246 @ $18200 - STRING #246 @ $1A6EC
+
+#W16($18200)
+Wadkins: You up for[LN]
+more quizzes?[BR]
+[04][ED]
+
+
+//POINTER #247 @ $18202 - STRING #247 @ $1A708
+
+#W16($18202)
+Wadkins: Well, that's[LN]
+just too bad. Come[LN]
+'gain.[ED]
+
+
+//POINTER #248 @ $18204 - STRING #248 @ $1A71E
+
+#W16($18204)
+Wadkins: Good answer![LN]
+You're quite good.[LN]
+Go ahead, and take[LN]
+this medal.[LN]
+It'll come in handy.[ED]
+
+
+//POINTER #249 @ $18206 - STRING #249 @ $1A753
+
+#W16($18206)
+Wadkins: Look where[LN]
+you're goin', you[LN]
+idiot! You're trying[LN]
+to push old me?![ED]
+
+
+//POINTER #250 @ $18208 - STRING #250 @ $1A776
+
+#W16($18208)
+Wadkins: The monster[LN]
+house is up in old[LN]
+Southend. I'm fine[LN]
+with you lookin' for[LN]
+treasure, but take[LN]
+care of them black[LN]
+magic folks.[ED]
+
+
+//POINTER #252 @ $1820C - STRING #252 @ $1A7AC
+
+#W16($1820C)
+Holstein: Moo! Mooo![ED]
+
+
+//POINTER #253 @ $1820E - STRING #253 @ $1A7BB
+
+#W16($1820E)
+Holstein: Mooonough[LN]
+is enough! I can't[LN]
+stand this! That Red[LN]
+guy took the kids and[LN]
+holding them up in[LN]
+the rusty cottage in[LN]
+the long forest![ED]
+
+
+//POINTER #254 @ $18210 - STRING #254 @ $1A7FC
+
+#W16($18210)
+Holstein: The monsters[LN]
+inside that house[LN]
+usually disguise[LN]
+themselves as normal[LN]
+people. Don't be[LN]
+fooled by them.[ED]
+
+
+//POINTER #255 @ $18212 - STRING #255 @ $1A82C
+
+#W16($18212)
+[null]Recently, some bad[LN]
+guys have been after[LN]
+the pirate's[LN]
+treasure.[BR]
+Not just that, even[LN]
+montsers have been[LN]
+skuling around town.[LN]
+It's been making[LN]
+living in that town[LN]
+troublesome.[ED]
+
+
+//POINTER #256 @ $18214 - STRING #256 @ $1A872
+
+#W16($18214)
+[null]Ugh, it's because of[LN]
+the pirate's treasure[LN]
+making people afraid[LN]
+of the bad guys[LN]
+that they flee[LN]
+to Southend.[ED]
+
+
+//POINTER #257 @ $18216 - STRING #257 @ $1A8A0
+
+#W16($18216)
+[null]The troublesome man[LN]
+known as Injun Joe[LN]
+seems to have[LN]
+appeared in this[LN]
+town.[BR]
+They seem to be with[LN]
+the drunkard, Muff[LN]
+Potter.[ED]
+
+
+//POINTER #258 @ $18218 - STRING #258 @ $1A8DD
+
+#W16($18218)
+[null]What?! You kids[LN]
+got rid of those[LN]
+monsters?! Amazing![LN]
+How about the[LN]
+pirate's treasure?[ED]
+
+
+//POINTER #259 @ $1821A - STRING #259 @ $1A90C
+
+#W16($1821A)
+Charlie: I don't know[LN]
+anything about that[LN]
+monster house! Pbbbt![LN]
+Maybe, if you gave me[LN]
+something...[ED]
+
+
+//POINTER #260 @ $1821C - STRING #260 @ $1A93A
+
+#W16($1821C)
+Charlie: The place[LN]
+known as the monster[LN]
+house is really[LN]
+Franklin's mansion.[LN]
+But you didn't hear[LN]
+it from me![ED]
+
+
+//POINTER #261 @ $1821E - STRING #261 @ $1A973
+
+#W16($1821E)
+Charlie: I'm not[LN]
+talking anymore.[LN]
+Pbbbt![ED]
+
+
+//POINTER #262 @ $18220 - STRING #262 @ $1A987
+
+#W16($18220)
+Muff Potter: You guys[LN]
+are looking for[LN]
+treasure, too? If you[LN]
+find it, you should[LN]
+tell Injun Joe.[LN]
+They'll give you[LN]
+a cut of it.[ED]
+
+
+//POINTER #263 @ $18222 - STRING #263 @ $1A9C3
+
+#W16($18222)
+Injun: You guys came,[LN]
+too. You looking here[LN]
+because it looks[LN]
+suspicious?[BR]
+Since you guys came,[LN]
+it must mean that[LN]
+there's treasure in[LN]
+here, then?[BR]
+You guys got a tile?[LN]
+Give it to me![LN]
+Combining it with[LN]
+mine will tell of[LN]
+where the hiding[LN]
+spot is![BR]
+If you don't give to[LN]
+me, I'll make you![LN]
+Now, you giving it[LN]
+to me?[BR]
+[04][ED]
+
+
+//POINTER #264 @ $18224 - STRING #264 @ $1AA6D
+
+#W16($18224)
+Injun: Alright, good[LN]
+move. Now, then be[LN]
+good and go on back[LN]
+home.[BR]
+Pirate's treasure[LN]
+is nothing for kids.[LN]
+Well, then! Going[LN]
+home?[BR]
+[04][ED]
+
+
+//POINTER #265 @ $18226 - STRING #265 @ $1AAB0
+
+#W16($18226)
+Injun: Well, I tried.[LN]
+I guess I'll have to[LN]
+show you some hurt.[ED]
+
+
+//POINTER #266 @ $18228 - STRING #266 @ $1AACF
+
+#W16($18228)
+Injun: See ya![LN]
+Adorable little kids.[ED]
+
+
+//POINTER #267 @ $1822A - STRING #267 @ $1AAE2
+
+#W16($1822A)
+Injun: Then, I'll[LN]
+just have to take[LN]
+it from you.[ED]
+
+
+//POINTER #268 @ $1822C - STRING #268 @ $1AAF8
+
+#W16($1822C)
+Injun: Give me the[LN]
+tile! If you don't,[LN]
+I won't hold back[LN]
+this time![LN]
+Now, you gonna do[LN]
+it?[BR]
+[04][ED]
+
+
+//POINTER #269 @ $1822E - STRING #269 @ $1AB25
+
+#W16($1822E)
+Injun: I see...[LN]
+My loss. I'll leave[LN]
+the treasure to you.[LN]
+I'll give you the[LN]
+tile. See ya![ED]
+
+
+//POINTER #270 @ $18230 - STRING #270 @ $1AB58
+
+#W16($18230)
+Injun: Enough![LN]
+You did well![BR]
+Up unil now, I've[LN]
+been pretending to[LN]
+run away to find[LN]
+the pirate's[LN]
+treasure.[BR]
+You should give it[LN]
+to me. If you don't,[LN]
+you'll die![ED]
+
+
+//POINTER #271 @ $18232 - STRING #271 @ $1ABAA
+
+#W16($18232)
+Muff Potter: Wait![LN]
+I won't allow[LN]
+violence! You need[LN]
+the tile Injun Joe's[LN]
+got to find the[LN]
+treasure, right?[BR]
+How about we edit the[LN]
+deal? If you give up[LN]
+the title, we can[LN]
+split the pirate's[LN]
+treasure. How 'bout[LN]
+that?[BR]
+[04][ED]
+
+
+//POINTER #272 @ $18234 - STRING #272 @ $1AC1E
+
+#W16($18234)
+Muff Potter: Okay,[LN]
+good kids. Leave it[LN]
+to us. Go and hurry[LN]
+back home now.[BR]
+[04][ED]
+
+
+//POINTER #273 @ $18236 - STRING #273 @ $1AC50
+
+#W16($18236)
+Muff Potter: I see...[LN]
+I guess there's no[LN]
+choice. I thought[LN]
+it sounded good, but[LN]
+I guess we'll give up[LN]
+searching for the[LN]
+pirate's treasure.[ED]
+
+
+//POINTER #274 @ $18238 - STRING #274 @ $1AC7F
+
+#W16($18238)
+Hart: I'm the judge,[LN]
+Hart. Recently, black[LN]
+magic monsters have[LN]
+been causing trouble.[LN]
+Using the joker repel[LN]
+would be good.[ED]
+
+
+//POINTER #275 @ $1823A - STRING #275 @ $1ACC1
+
+#W16($1823A)
+[null]Because of the[LN]
+trouble the monsters[LN]
+are causing, the[LN]
+pirates that were[LN]
+rampant here until[LN]
+recently have fled.[ED]
+
+
+//POINTER #276 @ $1823C - STRING #276 @ $1ACED
+
+#W16($1823C)
+Brown: This world is[LN]
+dangerous. Use this[LN]
+card if you come[LN]
+across King.[ED]
+
+
+//POINTER #277 @ $1823E - STRING #277 @ $1AD15
+
+#W16($1823E)
+[null]Ooh, you got rid[LN]
+of the black magic[LN]
+monsters? Thank you![ED]
+
+
+//POINTER #278 @ $18240 - STRING #278 @ $1AD37
+
+#W16($18240)
+Philip: A guy named[LN]
+Thatcher had been[LN]
+living in that[LN]
+mansion until[LN]
+recently.[ED]
+
+
+//POINTER #279 @ $18242 - STRING #279 @ $1AD5E
+
+#W16($18242)
+[null]You look tired.[LN]
+Why not take a rest?[BR]
+[04][ED]
+
+
+//POINTER #280 @ $18244 - STRING #280 @ $1AD7C
+
+#W16($18244)
+Buckland: I'm the[LN]
+butler of this[LN]
+mansion.[BR]
+What business do you[LN]
+have with Franklin?[LN]
+He's away right now.[ED]
+
+
+//POINTER #281 @ $18246 - STRING #281 @ $1ADBA
+
+#W16($18246)
+Buckland: Wh-What's[LN]
+that?! A bible?![LN]
+Get it away! Don't[LN]
+take something like[LN]
+that out! Gyaah![ED]
+
+
+//POINTER #282 @ $18248 - STRING #282 @ $1ADEA
+
+#W16($18248)
+Buckland: Thank you.[LN]
+Black magic had[LN]
+caused me to be[LN]
+controlled by[LN]
+monsters until now.[ED]
+
+
+//POINTER #283 @ $1824A - STRING #283 @ $1AE1C
+
+#W16($1824A)
+Franklin: Ho-ho-ho![LN]
+I see you've been[LN]
+searching for[LN]
+pirate's treasure.[LN]
+That's too bad.[BR]
+The tile that tells[LN]
+the true location of[LN]
+the pirate's treasure[LN]
+has been broken up[LN]
+and thrown in the[LN]
+river.[BR]
+Anyone who has ever[LN]
+searched for the[LN]
+treasure are turned[LN]
+into black magic[LN]
+servants.[BR]
+Soon, this world will[LN]
+be turned into mine![LN]
+You'll also become[LN]
+monsters soon![ED]
+
+
+//POINTER #284 @ $1824C - STRING #284 @ $1AEC9
+
+#W16($1824C)
+Franklin: Ho-ho-oh![LN]
+You've returned, you[LN]
+persistent pests.[LN]
+I do admire your[LN]
+courage.[ED]
+
+
+//POINTER #285 @ $1824E - STRING #285 @ $1AEF5
+
+#W16($1824E)
+Foster: Who is it?[LN]
+Open the safe in[LN]
+the neighboring room![LN]
+My daughter and the[LN]
+key are stuck inside[LN]
+the safe![ED]
+
+
+//POINTER #286 @ $18250 - STRING #286 @ $1AF30
+
+#W16($18250)
+Foster: Thank you.[LN]
+I appreciate your[LN]
+help.[ED]
+
+
+
+//POINTER #288 @ $18254 - STRING #288 @ $1AF42
+
+#W16($18254)
+Henry: I'm a safecracker.[LN]
+But it wasn't like[LN]
+I was born evil or[LN]
+anything...[ED]
+
+
+//POINTER #289 @ $18256 - STRING #289 @ $1AF71
+
+#W16($18256)
+Henry: What?! A kid[LN]
+got stuck inside the[LN]
+safe? Okay, leave it[LN]
+to me.[LN]
+You should come back[LN]
+later.[ED]
+
+
+//POINTER #290 @ $18258 - STRING #290 @ $1AFA9
+
+#W16($18258)
+Henry: Even I can be[LN]
+of help to people.[LN]
+I can live a bit more[LN]
+honestly after this.[BR]
+I'll give you a key.[LN]
+Use it well. Bye-bye![ED]
+
+
+//POINTER #291 @ $1825A - STRING #291 @ $1B00A
+
+#W16($1825A)
+Bikke: I can't just[LN]
+let you get away![LN]
+You're gonna work[LN]
+for me as slaves![LN]
+Gya-ha-ha![ED]
+
+
+//POINTER #292 @ $1825C - STRING #292 @ $1B041
+
+#W16($1825C)
+[null]Oh, there's some[LN]
+lively kids here.[LN]
+I'll give you to[LN]
+Bikke after catching[LN]
+you.[ED]
+
+
+//POINTER #293 @ $1825E - STRING #293 @ $1B06A
+
+#W16($1825E)
+[null]Old Man Hayes[LN]
+knows a lot about the[LN]
+pirate's treasure.[ED]
+
+
+//POINTER #294 @ $18260 - STRING #294 @ $1B086
+
+#W16($18260)
+[null]I heard that the[LN]
+pirate's treasure[LN]
+is hidden in a town[LN]
+somewhere.[ED]
+
+
+//POINTER #295 @ $18262 - STRING #295 @ $1B0A1
+
+#W16($18262)
+[null]I'll go and look[LN]
+for the treasure,[LN]
+too.[ED]
+
+
+//POINTER #296 @ $18264 - STRING #296 @ $1B0BA
+
+#W16($18264)
+[null]I heard that[LN]
+scoundrel, Injun Joe,[LN]
+has started to look[LN]
+for the treasure.[ED]
+
+
+//POINTER #297 @ $18266 - STRING #297 @ $1B0DA
+
+#W16($18266)
+[null]The southern forest[LN]
+has Riverwest's[LN]
+southern pier.[ED]
+
+
+//POINTER #298 @ $18268 - STRING #298 @ $1B0F8
+
+#W16($18268)
+[null]Even St. Peter's has[LN]
+also gotten quite[LN]
+busy lately.[ED]
+
+
+//POINTER #299 @ $1826A - STRING #299 @ $1B110
+
+#W16($1826A)
+[null]If you're going[LN]
+to Southend, you'll[LN]
+have to go through[LN]
+East City.[ED]
+
+
+//POINTER #300 @ $1826C - STRING #300 @ $1B129
+
+#W16($1826C)
+[null]Alfred's the kind[LN]
+of rascal who hollers[LN]
+out to a cute girl.[ED]
+
+
+//POINTER #301 @ $1826E - STRING #301 @ $1B151
+
+#W16($1826E)
+[null]Injun Joe seems[LN]
+to have gone through[LN]
+East City. Perhaps,[LN]
+he knows something[LN]
+about the pirate's[LN]
+treasure?[ED]
+
+
+//POINTER #302 @ $18270 - STRING #302 @ $1B17E
+
+#W16($18270)
+[null]This here town[LN]
+is Riverwest.[ED]
+
+
+//POINTER #303 @ $18272 - STRING #303 @ $1B18F
+
+#W16($18272)
+[null]With the clock[LN]
+tower's bell being[LN]
+stolen, I don't know[LN]
+what time it is.[LN]
+What a connundrum![ED]
+
+
+//POINTER #304 @ $18274 - STRING #304 @ $1B1B8
+
+#W16($18274)
+[null]Recently, it seems[LN]
+like someone is[LN]
+kidnapping kids.[ED]
+
+
+//POINTER #305 @ $18276 - STRING #305 @ $1B1DA
+
+#W16($18276)
+[null]Welcome to East City.[LN]
+Coyote's got a good[LN]
+story.[ED]
+
+
+//POINTER #306 @ $18278 - STRING #306 @ $1B1FE
+
+#W16($18278)
+[null]Now that I think[LN]
+about it, I think[LN]
+Injun Joe went[LN]
+to Northfield.[ED]
+
+
+//POINTER #307 @ $1827A - STRING #307 @ $1B219
+
+#W16($1827A)
+[null]Northfield would be[LN]
+to the north. Captain[LN]
+Silver's daughter[LN]
+lives with a young[LN]
+doctor.[ED]
+
+
+//POINTER #308 @ $1827C - STRING #308 @ $1B24C
+
+#W16($1827C)
+[null]This here's[LN]
+the village of[LN]
+Northfield.[LN]
+Joe Harper has been[LN]
+lookin' for some[LN]
+folks to help get[LN]
+rid of the wolves.[ED]
+
+
+//POINTER #309 @ $1827E - STRING #309 @ $1B27B
+
+#W16($1827E)
+[null]To get to Southend,[LN]
+I'd go past Hannibal.[LN]
+That Injun Joe guy[LN]
+was also heading[LN]
+there.[ED]
+
+
+//POINTER #310 @ $18280 - STRING #310 @ $1B2A1
+
+#W16($18280)
+[null]Don't you enter[LN]
+the Lost Woods.[BR]
+Some kids disappeared[LN]
+in it while looking[LN]
+for some magic item.[ED]
+
+
+//POINTER #311 @ $18282 - STRING #311 @ $1B2EB
+
+#W16($18282)
+[null]This is the town[LN]
+of Hannibal.[LN]
+Injun Joe headed[LN]
+through the Lost[LN]
+Woods to get to[LN]
+Southend.[ED]
+
+
+//POINTER #312 @ $18284 - STRING #312 @ $1B315
+
+#W16($18284)
+[null]If you go past[LN]
+the long forest down[LN]
+south, you'll get to[LN]
+Southend.[ED]
+
+
+//POINTER #313 @ $18286 - STRING #313 @ $1B335
+
+#W16($18286)
+[null]Pirate's treasure?[LN]
+Now that you say it,[LN]
+there was some fella'[LN]
+who was moving[LN]
+somethin' out down[LN]
+south.[ED]
+
+
+//POINTER #314 @ $18288 - STRING #314 @ $1B368
+
+#W16($18288)
+[null]I hear Southend's[LN]
+bank got some girl[LN]
+stuck inside the[LN]
+safe.[ED]
+
+
+//POINTER #315 @ $1828A - STRING #315 @ $1B392
+
+#W16($1828A)
+[null]There should be[LN]
+nothing but graves[LN]
+and a dead end forest[LN]
+down south.[ED]
+
+
+//POINTER #316 @ $1828C - STRING #316 @ $1B3B6
+
+#W16($1828C)
+[null]This dangerous place[LN]
+is Southend.[ED]
+
+
+//POINTER #317 @ $1828E - STRING #317 @ $1B3C9
+
+#W16($1828E)
+[null]This town is split[LN]
+between New Southend[LN]
+and Old Southend.[ED]
+
+
+//POINTER #318 @ $18290 - STRING #318 @ $1B3F1
+
+#W16($18290)
+[null]This is New Southend.[ED]
+
+
+//POINTER #319 @ $18292 - STRING #319 @ $1B403
+
+#W16($18292)
+[null]This is Old Southend.[ED]
+
+
+//POINTER #320 @ $18294 - STRING #320 @ $1B412
+
+#W16($18294)
+[null]If you go[LN]
+west, you'll find[LN]
+Riverwest.[ED]
+
+
+//POINTER #321 @ $18296 - STRING #321 @ $1B423
+
+#W16($18296)
+[null]Hey! Don't cause[LN]
+trouble while I'm[LN]
+busy![ED]
+
+
+//POINTER #322 @ $18298 - STRING #322 @ $1B440
+
+#W16($18298)
+Chris: My dad has[LN]
+been sick for some[LN]
+time. Tell him I'm[LN]
+worried for him[LN]
+and to stay healthy.[ED]
+
+
+//POINTER #323 @ $1829A - STRING #323 @ $1B478
+
+#W16($1829A)
+[null]It's either monsters[LN]
+or outlaws! What will[LN]
+become of this town?![ED]
+
+
+//POINTER #324 @ $1829C - STRING #324 @ $1B49E
+
+#W16($1829C)
+[null]Old Man Watson likes[LN]
+to take afternoon[LN]
+naps.[ED]
+
+
+//POINTER #325 @ $1829E - STRING #325 @ $1B4BA
+
+#W16($1829E)
+Mike: Becky moved[LN]
+from the city to[LN]
+the west house.[ED]
+
+
+//POINTER #326 @ $182A0 - STRING #326 @ $1B4DC
+
+#W16($182A0)
+Peter: You'll need[LN]
+a canoe to cross[LN]
+the river.[ED]
+
+
+//POINTER #327 @ $182A2 - STRING #327 @ $1B4F1
+
+#W16($182A2)
+[null]East City is located[LN]
+a little ways down[LN]
+the river from the[LN]
+pier at the riverside[LN]
+forest.[ED]
+
+
+//POINTER #328 @ $182A4 - STRING #328 @ $1B51D
+
+#W16($182A4)
+
+Lucy: The lumberjack,[LN]
+Richard, from the[LN]
+west forest is good[LN]
+at making canoes.[ED]
+
+
+//POINTER #329 @ $182A6 - STRING #329 @ $1B544
+
+#W16($182A6)
+Johnny: This town[LN]
+has a man who[LN]
+likes to play[LN]
+rock-paper-scissors.[LN]
+If you can beat him,[LN]
+he'll give you[LN]
+something strange.[ED]
+
+
+//POINTER #330 @ $182A8 - STRING #330 @ $1B575
+
+#W16($182A8)
+Donald: Did ya know[LN]
+Watson has something[LN]
+that can help you win[LN]
+against Jack?[ED]
+
+
+//POINTER #331 @ $182AA - STRING #331 @ $1B59F
+
+#W16($182AA)
+Mark: Aah! I got[LN]
+scared! I'm done![LN]
+I'm going home![ED]
+
+
+//POINTER #332 @ $182AC - STRING #332 @ $1B5BA
+
+#W16($182AC)
+[null]You can get to[LN]
+East City by boat.[ED]
+
+
+//POINTER #333 @ $182AE - STRING #333 @ $1B5D1
+
+#W16($182AE)
+[null]Jackson Tower is[LN]
+near East City.[BR]
+Captain Silver lives[LN]
+there alone.[ED]
+
+
+//POINTER #334 @ $182B0 - STRING #334 @ $1B5FF
+
+#W16($182B0)
+[null]Captain Silver used[LN]
+to dote on kids, but[LN]
+after his daughter[LN]
+eloped, he stopped[LN]
+talking to people.[ED]
+
+
+//POINTER #335 @ $182B2 - STRING #335 @ $1B63B
+
+#W16($182B2)
+[null]What to do,[LN]
+what to do...[LN]
+Someone, please[LN]
+return the bell[LN]
+to the clock tower.[ED]
+
+
+//POINTER #336 @ $182B4 - STRING #336 @ $1B661
+
+#W16($182B4)
+Thatcher: Aah! Where[LN]
+did Becky get taken[LN]
+to?! Someone help[LN]
+her![ED]
+
+
+//POINTER #337 @ $182B6 - STRING #337 @ $1B689
+
+#W16($182B6)
+Thatcher: Thank you[LN]
+for saving my[LN]
+daughter! Please,[LN]
+use this lamp to[LN]
+light up the dark.[ED]
+
+
+//POINTER #338 @ $182B8 - STRING #338 @ $1B6C2
+
+#W16($182B8)
+[null]I heard that someone[LN]
+kidnapped this Becky[LN]
+girl.[ED]
+
+
+//POINTER #339 @ $182BA - STRING #339 @ $1B6E3
+
+#W16($182BA)
+Beth: Kidnapping[LN]
+sounds like[LN]
+a pirate's work.[ED]
+
+
+//POINTER #340 @ $182BC - STRING #340 @ $1B708
+
+#W16($182BC)
+[null]If you're looking[LN]
+for Margaret, I saw[LN]
+her down south. It's[LN]
+been quite a while[LN]
+since I saw her.[ED]
+
+
+//POINTER #341 @ $182BE - STRING #341 @ $1B736
+
+#W16($182BE)
+[null]If you're looking[LN]
+for Margaret, I saw[LN]
+her in Southend[LN]
+before.[ED]
+
+
+//POINTER #342 @ $182C0 - STRING #342 @ $1B75C
+
+#W16($182C0)
+Horace: Tell me if[LN]
+you see Henry.[LN]
+He's a safecracker[LN]
+and a criminal fool[LN]
+who stole $1000.[ED]
+
+
+//POINTER #343 @ $182C2 - STRING #343 @ $1B79D
+
+#W16($182C2)
+[null]Ooh, the safecracker[LN]
+saved the girl.[ED]
+
+
+//POINTER #344 @ $182C4 - STRING #344 @ $1B7BD
+
+#W16($182C4)
+Horace: Tell this to[LN]
+Henry. He should be[LN]
+arrested, but this[LN]
+time, I'll look the[LN]
+other way. Tell him[LN]
+to leave this town[LN]
+quickly.[ED]
+
+
+//POINTER #345 @ $182C6 - STRING #345 @ $1B802
+
+#W16($182C6)
+Lin: Emm! You saved[LN]
+me! Thank you for[LN]
+saving me![ED]
+
+
+//POINTER #346 @ $182C8 - STRING #346 @ $1B821
+
+#W16($182C8)
+[null]Instead of buying[LN]
+something, look[LN]
+around for something[LN]
+you can use instead.[ED]
+
+
+//POINTER #347 @ $182CA - STRING #347 @ $1B83D
+
+#W16($182CA)
+[null]The devil whispered[LN]
+into Tom's heart.[BR]
+Tale the tile from[LN]
+Sid![BR]
+[04][ED]
+
+
+//POINTER #348 @ $182CC - STRING #348 @ $1B865
+
+#W16($182CC)
+[null]The devil whispered.[BR]
+[LN]
+You'll regret this[LN]
+later.[ED]
+
+
+//POINTER #349 @ $182CE - STRING #349 @ $1B87B
+
+#W16($182CE)
+[null]The devil whispered.[BR]
+[LN]
+Amy is cuter![LN]
+Change your mind![BR]
+[04][ED]
+
+
+//POINTER #350 @ $182D0 - STRING #350 @ $1B8A0
+
+#W16($182D0)
+[null]The devil whispered.[BR]
+[LN]
+Hey, it's pointless![ED]
+
+
+//POINTER #351 @ $182D2 - STRING #351 @ $1B8B5
+
+#W16($182D2)
+Huck: That bread sure[LN]
+was good. Come again.[ED]
+
+
+//POINTER #352 @ $182D4 - STRING #352 @ $1B8CC
+
+#W16($182D4)
+[null]Got an item.[ED]
+
+
+//POINTER #353 @ $182D6 - STRING #353 @ $1B8DB
+
+#W16($182D6)
+[null]Oh? Have we met?[ED]
+
+
+//POINTER #354 @ $182D8 - STRING #354 @ $1B8ED
+
+#W16($182D8)
+[null]Gave an item.[ED]
+
+
+//POINTER #355 @ $182DA - STRING #355 @ $1B8FB
+
+#W16($182DA)
+Jim: Ooh, My boy[LN]
+came to rescue me?[LN]
+I better get home[LN]
+and clean.[ED]
+
+
+//POINTER #356 @ $182DC - STRING #356 @ $1B928
+
+#W16($182DC)
+Tom: Southend[LN]
+is ahead.[ED]
+
+
+//POINTER #357 @ $182DE - STRING #357 @ $1B934
+
+#W16($182DE)
+[null]The angel whispered.[BR]
+[LN]
+You can't hold[LN]
+anymore. Give it up.[ED]
+
+
+//POINTER #358 @ $182E0 - STRING #358 @ $1B951
+
+#W16($182E0)
+[null]The angel whispered.[BR]
+[LN]
+There's nothing[LN]
+for you here.[ED]
+
+
+//POINTER #359 @ $182E2 - STRING #359 @ $1B968
+
+#W16($182E2)
+[null]Grrr! You're a fool[LN]
+if you think you can[LN]
+defeat me! I'll eat[LN]
+you up![ED]
+
+
+//POINTER #360 @ $182E4 - STRING #360 @ $1B999
+
+#W16($182E4)
+Tom: (Here lies[LN]
+Margaret...)[LN]
+Poor Huck...[ED]
+
+
+//POINTER #361 @ $182E6 - STRING #361 @ $1B9B8
+
+#W16($182E6)
+Huck: The truth is[LN]
+I knew about it[LN]
+already, Tom...[LN]
+That's enough.[LN]
+Let's go, now.[ED]
+
+
+//POINTER #362 @ $182E8 - STRING #362 @ $1B9E3
+
+#W16($182E8)
+[null]The angel whispered.[BR]
+[LN]
+You're holding[LN]
+too many items.[LN]
+Give one to[LN]
+a friend?[BR]
+[04][ED]
+
+
+//POINTER #363 @ $182EA - STRING #363 @ $1BA04
+
+#W16($182EA)
+[null]The angel whispered.[BR]
+[LN]
+Your party is full.[LN]
+You can't add more.[ED]
+
+
+//POINTER #364 @ $182EC - STRING #364 @ $1BA24
+
+#W16($182EC)
+[null]Found a piece[LN]
+of hangon leaf.[ED]
+
+
+//POINTER #365 @ $182EE - STRING #365 @ $1BA39
+
+#W16($182EE)
+[null]Got a hangon leaf.[ED]
+
+
+//POINTER #366 @ $182F0 - STRING #366 @ $1BA4B
+
+#W16($182F0)
+[null]Found a piece[LN]
+of gold.[ED]
+
+
+//POINTER #367 @ $182F2 - STRING #367 @ $1BA5C
+
+#W16($182F2)
+[null]Got a piece[LN]
+of gold.[ED]
+
+
+//POINTER #368 @ $182F4 - STRING #368 @ $1BA6A
+
+#W16($182F4)
+[null]Found a part[LN]
+of a cross.[ED]
+
+
+//POINTER #369 @ $182F6 - STRING #369 @ $1BA7B
+
+#W16($182F6)
+[null]Got a cross.[ED]
+
+
+//POINTER #370 @ $182F8 - STRING #370 @ $1BA89
+
+#W16($182F8)
+[null]Found a tile[LN]
+from the bottle.[ED]
+
+
+//POINTER #371 @ $182FA - STRING #371 @ $1BA9D
+
+#W16($182FA)
+Horace: Now, what?![LN]
+Is there anyone who[LN]
+can open the safe?![ED]
+
+
+//POINTER #372 @ $182FC - STRING #372 @ $1BABB
+
+#W16($182FC)
+[null]Again, you brat![LN]
+This is a monster[LN]
+museum![ED]
+
+
+//POINTER #373 @ $182FE - STRING #373 @ $1BAD5
+
+#W16($182FE)
+Huck: Does this[LN]
+lady need me for[LN]
+somethin'?[ED]
+
+
+//POINTER #374 @ $18300 - STRING #374 @ $1BAED
+
+#W16($18300)
+John: Graah![LN]
+Today, I'm in[LN]
+a bad mood-ruff![LN]
+Bite-ruff![ED]
+
+
+//POINTER #375 @ $18302 - STRING #375 @ $1BB0C
+
+#W16($18302)
+Huck: Well, we can't[LN]
+get to the other side[LN]
+now. Fine, I'll be[LN]
+the bridge.[ED]
+
+
+//POINTER #376 @ $18304 - STRING #376 @ $1BB3E
+
+#W16($18304)
+Tom: Yes, a chest![LN]
+I found a treasure[LN]
+chest![ED]
+
+
+//POINTER #377 @ $18306 - STRING #377 @ $1BB5A
+
+#W16($18306)
+[null]You fool! You fell[LN]
+into the trap![ED]
+
+
+//POINTER #378 @ $18308 - STRING #378 @ $1BB6C
+
+#W16($18308)
+Huck: Tom, stop![ED]
+
+
+//POINTER #379 @ $1830A - STRING #379 @ $1BB79
+
+#W16($1830A)
+[null]To get through[LN]
+the Lost Woods, go up[LN]
+twice and down three[LN]
+times.[ED]
+
+
+//POINTER #380 @ $1830C - STRING #380 @ $1BB9E
+
+#W16($1830C)
+Sauce: Aaah! Help![LN]
+Worce has turned[LN]
+into a monster![ED]
+
+
+//POINTER #381 @ $1830E - STRING #381 @ $1BBBC
+
+#W16($1830E)
+[null]I owe you one, Tom![LN]
+You have my thanks![ED]
+
+
+//POINTER #382 @ $18310 - STRING #382 @ $1BBDD
+
+#W16($18310)
+Tom: Snap! The key[LN]
+broke. At least,[LN]
+the door is... open?[ED]
+
+
+//POINTER #383 @ $18312 - STRING #383 @ $1BC00
+
+#W16($18312)
+[null]Hey, let me out![ED]
+
+
+//POINTER #384 @ $18314 - STRING #384 @ $1BC12
+
+#W16($18314)
+Tom: Beyond here[LN]
+is the south forest.[ED]
+
+
+//POINTER #385 @ $18316 - STRING #385 @ $1BC22
+
+#W16($18316)
+Tom: It says,[LN]
+(West Forest).[ED]
+
+
+//POINTER #386 @ $18318 - STRING #386 @ $1BC34
+
+#W16($18318)
+[null]Go home now.[ED]
+
+
+//POINTER #387 @ $1831A - STRING #387 @ $1BC44
+
+#W16($1831A)
+[null]Nothing came.[ED]
+
+
+//POINTER #388 @ $1831C - STRING #388 @ $1BC53
+
+#W16($1831C)
+Indy: We're going[LN]
+to find the treasure[LN]
+first.[ED]
+
+
+//POINTER #389 @ $1831E - STRING #389 @ $1BC6D
+
+#W16($1831E)
+Mark: Listen to Ace.[ED]
+
+
+//POINTER #390 @ $18320 - STRING #390 @ $1BC7B
+
+#W16($18320)
+Bikke: Ooh, I lost![LN]
+Yer pretty strong,[LN]
+boy! tell Captain[LN]
+Silver it's my bad![ED]
+
+
+//POINTER #391 @ $18322 - STRING #391 @ $1BCB0
+
+#W16($18322)
+[null]S-Surender![ED]
+
+
+//POINTER #392 @ $18324 - STRING #392 @ $1BCBC
+
+#W16($18324)
+[null]Waah! Take the[LN]
+pendant! Just don't[LN]
+hurt me![ED]
+
+
+//POINTER #393 @ $18326 - STRING #393 @ $1BCD5
+
+#W16($18326)
+[null]Sorry about that![ED]
+
+
+//POINTER #394 @ $18328 - STRING #394 @ $1BCE3
+
+#W16($18328)
+Becky: L-A-T-E-R![ED]
+
+
+//POINTER #395 @ $1832A - STRING #395 @ $1BCED
+
+#W16($1832A)
+Tom: I'm gonna faint![ED]
+
+
+//POINTER #396 @ $1832C - STRING #396 @ $1BCF8
+
+#W16($1832C)
+Tom: Aah, this scene[LN]
+is same from from[LN]
+a dream I had.[ED]
+
+
+//POINTER #397 @ $1832E - STRING #397 @ $1BD15
+
+#W16($1832E)
+Foster: Welcome to[LN]
+our bank! Will you[LN]
+make a deposit?[BR]
+[04][ED]
+
+
+//POINTER #398 @ $18330 - STRING #398 @ $1BD30
+
+#W16($18330)
+[null]Here's your lunch.[ED]
+
+
+//POINTER #399 @ $18332 - STRING #399 @ $1BD3E
+
+#W16($18332)
+[null]Lunch time[ED]
+
+
+//POINTER #400 @ $18334 - STRING #400 @ $1BD48
+
+#W16($18334)
+Janet: Are you[LN]
+hungry?[BR]
+[04][ED]
+
+
+//POINTER #401 @ $18336 - STRING #401 @ $1BD56
+
+#W16($18336)
+Tom: Do I love them[LN]
+more than Lola?[ED]
+
+
+//POINTER #402 @ $18338 - STRING #402 @ $1BD69
+
+#W16($18338)
+Amy: Look,[LN]
+it's bread![ED]
+
+
+//POINTER #403 @ $1833A - STRING #403 @ $1BD79
+
+#W16($1833A)
+Dick: How cruel![ED]
+
+
+//POINTER #404 @ $1833C - STRING #404 @ $1BD85
+
+#W16($1833C)
+Becky: Wait! There[LN]
+should be a cave[LN]
+to the south of[LN]
+Southend.[ED]
+
+
+//POINTER #405 @ $1833E - STRING #405 @ $1BDA3
+
+#W16($1833E)
+Jim: Boy, you don't[LN]
+clean any. You busy?[BR]
+[04][ED]
+
+
+//POINTER #406 @ $18340 - STRING #406 @ $1BDC3
+
+#W16($18340)
+Jim: Then, ya should[LN]
+walk faster.[ED]
+
+
+//POINTER #407 @ $18342 - STRING #407 @ $1BDDB
+
+#W16($18342)
+Foster: Did you[LN]
+find the pirate's[LN]
+treasure? You better[LN]
+go after it![ED]
+
+
+//POINTER #408 @ $18344 - STRING #408 @ $1BDF7
+
+#W16($18344)
+Tom: Aah! There's[LN]
+a monster inside?![ED]
+
+
+//POINTER #409 @ $18346 - STRING #409 @ $1BE07
+
+#W16($18346)
+Tom: Oh? My wounds[LN]
+are healed.[ED]
+
+
+//POINTER #410 @ $18348 - STRING #410 @ $1BE19
+
+#W16($18348)
+[null]Put on the emblem.[ED]
+
