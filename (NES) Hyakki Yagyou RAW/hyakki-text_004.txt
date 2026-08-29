@@ -25,13 +25,22 @@ I'll take (3) for (02). Is that ok?
 You don't have enough money.
 
  おちゃ に しますか おしょくじ に しますか (3F) [ED]
+ Do you want tea? Or perhaps food?
  
 (player) の たいりょくは (02) かいふくした。 [ED]
+(players)'s health has been restored.
+
  まいど ありがとうございます。 うわさ では [ED]
+
  なにを うりますか (3F) [ED]
+ What will you sell?
+
  どなたが ごようかな[ED]
+ What do ya need?
+
 [ED]
 [ED]
+
  ひや に しますか あつかん に しますか (3F) [ED]
 (player) の じんつうりき が かいふくした。 [ED]
 (player)の (03)が かいふくした。[ED]
