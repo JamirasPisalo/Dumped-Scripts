@@ -1725,7 +1725,7 @@ talk to animals with it.
 オオカミのボスを つかまえるときに[LN]
 つかうのじゃ。[BR]
 Popkins:That item there is a trap. You can use it for trapping
-the wolf's leader.
+the wolf boss.
 [LN]
 ただし とうりみちに しかけないと[LN]
 こうかはないはずじゃ。[ED]
@@ -1836,7 +1836,7 @@ Doggie:Ruff! Ruff! Ruff!
 (ポ チ)「ポチだワン！ オオカミのボスは[LN]
 やまごやの まえのとうりの[LN]
 ひがしのつきあたりに よくくるよ。[ED]
-Doggie:I'm Doggie, ruff! The wolf leader often comes around the east end
+Doggie:I'm Doggie, ruff! The wolves' boss often comes around the east end
 of the path in front of the mountain cottage. 
 
 
@@ -1847,7 +1847,7 @@ of the path in front of the mountain cottage.
 むだだべ。あやつっている ボスを[LN]
 たおさないことにゃあ[LN]
 いつまでたっても ひとをおそうずらで。[null][ED]
-Palmer:It don't matter how many wolves we get. Unless we get the leader
+Palmer:It don't matter how many wolves we get. Unless we get the boss
 controlling 'em they'll just keep on attackin' people.
 
 
@@ -1879,7 +1879,7 @@ It'd be good to place it somewhere in this forest.
 (ニクラウス)「どうだ オオカミのボスは[LN]
 つかまえたずらか？[BR]
 [04][ED]
-Niclaus:Well, have ya caught the wolf leader?
+Niclaus:Well, have ya caught the wolves' boss?
 
 
 //POINTER #214 @ $181C0 - STRING #214 @ $1A267
@@ -1914,7 +1914,7 @@ The devil whispered. It's just been a bad dream up 'till now!
 もう ひとをおそったりしないだに[LN]
 はずしてほしいずら？[BR]
 [04][ED]
-Leader:I beg, let me go from this trap. I won't attack people anymore.
+Boss:I beg, let me go from this trap. I won't attack people anymore.
 Can you let me free?
 
 
@@ -1923,7 +1923,7 @@ Can you let me free?
 #W16($181C8)
 (ボ ス)「ガハハッ バカだや！[LN]
 ワナをはずせば こっちのもんだべ。[ED]
-Leader:Gahaha you fool! I got ya now that I'm free.
+Boss:Gahaha you fool! I got ya now that I'm free.
 
 
 //POINTER #219 @ $181CA - STRING #219 @ $1A30F
@@ -1932,7 +1932,7 @@ Leader:Gahaha you fool! I got ya now that I'm free.
 (ボ ス)「そんなせっしょうずら。[LN]
 ワナをはずしてくれたら[LN]
 オオカミのきばを あげるずらに。[ED]
-How about a deal. You undo this trap and I'll give
+Boss:How about a deal. You undo this trap and I'll give
 you a wolf fang.
 
 
