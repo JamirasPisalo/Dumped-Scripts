@@ -293,6 +293,7 @@ Tom:But I feel glad. It may not be real treasure, but I have no regrets!
 
  うじかのしたをほればいい。[ED]
  gUnderCross
+
  ((IMPORTANT!! This is a major hint, each line has max 13 chars, earlier I
 wrote here how I wasnt sure what this is but I found out it is a major puzzle))
 
